@@ -1,6 +1,56 @@
 # you-can-run-you-can-hide-the-zombie-apocalypse-
 
-##Code Repository Resources:
+## Project Overview
+
+### Model 
+$$
+\dot{S} = -\beta S Z
+$$
+$$
+\dot{Z} = (\beta - \kappa) S Z
+$$
+$$
+\dot{R} = \kappa S Z
+$$
+- **S** = Susceptible population (uninfected humans)  
+- **Z** = Infected population (zombies)  
+- **R** = Removed population (zombies destroyed by humans)  
+- **β (beta)** = Bite rate (speed of infection spread)  
+- **κ (kappa)** = Kill rate (effectiveness of humans against zombies)
+
+### Human Survival Index (HSI)
+The Human Survival Index will incorporate several categories of survivability modifiers. 
+- **Health and Physical Fitness:** obesity rates, physical disabilities, density of nursing homes
+- **Education and Awareness:** education levels, density of schools
+- **Social and Community Factors:** age demographics, military or veteran populations, gun ownership rates, hunting and fishing licenses
+- **Infrastructure and Preparedness:** cities off the grid, doomsday preppers, COVID reactions/protocols
+- **Environmental and Geographic Factors:** terrain, weather
+
+Each category can itself be normalized around 0.
+
+**Weighted Formula**
+
+$$
+\text{HSI} = w_H H + w_E E + w_M M + w_S S + w_I I + w_G G
+$$
+where:
+$$
+w_H + w_E + w_M + w_S + w_I + w_G = 1
+$$
+- $H$: Health and Physical Fitness  
+- $E$: Education and Awareness  
+- $M$: Mobility and Escape Resources  
+- $S$: Social and Community Factors  
+- $I$: Infrastructure and Preparedness  
+- $G$: Environmental and Geographic Factors  
+
+### Research Questions:
+1. How does population density affect survival time?  
+2. Where are the lowest-risk areas and potential escape zones?  
+3. Do survivability modifiers meaningfully increase survival odds?  
+
+
+## Code Repository Resources:
 - https://github.com/epistorm/epydemix
 - https://maplapse.readthedocs.io/en/latest/
 - https://medium.com/tech-carnot/time-lapse-choropleth-map-visualization-using-geopandas-8adb77a7d14
