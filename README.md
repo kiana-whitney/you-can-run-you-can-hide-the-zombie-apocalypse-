@@ -6,3 +6,5 @@
 - Gun Ownership and Sales:
     - Gun Ownership: https://ammo.com/articles/gun-ownership-by-state & https://worldpopulationreview.com/state-rankings/gun-ownership-by-state
     - Gun Sales: https://datahub.thetrace.org/dataset/gun-sales/
+- Military and Veterans:
+    - Veteran Populations: https://www.ruralhealthinfo.org/charts/97
