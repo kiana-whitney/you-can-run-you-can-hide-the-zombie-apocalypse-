@@ -1,0 +1,876 @@
+﻿id,playername,seasonplayed,age,occupation,hometown,startingtribe,startingtribecolor,timesswapped,mergetribe,mergetribecolor,finalplacement,votescast,correctlyvoted,votesrecieved,votesnegated,tribeimmunities,individualimmunites,tribalsattended,playersonseason,advantagesplayed
+1,Sonja Christopher,Borneo,63,Musician,"Walnut Creek, CA",Tagi,Orange,0,No Merge,N/A,16,1,0,4,0,0,0,1,16,0
+2,B.B. Anderson,Borneo,64,Real Estate Developer,"Mission Hills, KS",Pagong,Yellow,0,No Merge,N/A,15,1,0,6,0,1,0,1,16,0
+3,Stacey Stillman,Borneo,27,Attorney,"San Francisco, CA",Tagi,Orange,0,No Merge,N/A,14,2,0,6,0,1,0,2,16,0
+4,Ramona Gray,Borneo,29,Biochemist,"Edison, NJ",Pagong,Yellow,0,No Merge,N/A,13,2,1,6,0,2,0,2,16,0
+5,Dirk Been,Borneo,23,Dairy Farmer,"Spring Green, WI",Tagi,Orange,0,No Merge,N/A,12,3,2,4,0,2,0,3,16,0
+6,Joel Klug,Borneo,27,Health Club Consultant,"Sherwood, AR",Pagong,Yellow,0,No Merge,N/A,11,3,2,4,0,3,0,3,16,0
+7,Gretchen Cordy,Borneo,38,Teacher,"Clarksville, TN",Pagong,Yellow,0,Rattana,Green,10,4,3,4,0,3,0,4,16,0
+8,Greg Buis,Borneo,24,Ivy League Graduate,"Gold Hill, CO",Pagong,Yellow,0,Rattana,Green,9,5,1,6,0,3,1,5,16,0
+9,Jenna Lewis,Borneo,22,Student,"Franklin, NH",Pagong,Yellow,0,Rattana,Green,8,6,4,11,0,3,0,6,16,0
+10,Gervase Peterson,Borneo,30,YMCA Basketball Coach,"Willingboro, NJ",Pagong,Yellow,0,Rattana,Green,7,7,1,6,0,3,1,7,16,0
+11,Colleen Haskell,Borneo,23,Student,"Miami Beach, FL",Pagong,Yellow,0,Rattana,Green,6,8,3,7,0,3,0,8,16,0
+12,Sean Kenniff,Borneo,30,Neurosurgeon,"Carle Place, NY",Tagi,Orange,0,Rattana,Green,5,9,6,9,0,3,0,9,16,0
+13,Susan Hawk,Borneo,38,Truck Driver,"Palmyra, WI",Tagi,Orange,0,Rattana,Green,4,10,9,7,0,3,0,10,16,0
+14,Rudy Boesch,Borneo,72,Retired Navy SEAL,"Virginia Beach, VA",Tagi,Orange,0,Rattana,Green,3,11,11,8,0,3,1,11,16,0
+15,Kelly Wiglesworth,Borneo,22,River Rafting Guide,"Kernville, CA",Tagi,Orange,0,Rattana,Green,2,12,7,0,0,3,4,11,16,0
+16,Richard Hatch,Borneo,38,Corporate Trainer,"Newport, RI",Tagi,Orange,0,Rattana,Green,1,10,9,6,0,3,1,11,16,0
+17,Debb Eaton,Australian Outback,45,Corrections Officer,"Milan, NH",Kucha,Blue,0,No Merge,N/A,16,1,0,7,0,0,0,1,16,0
+18,Kel Gleason,Australian Outback,32,Army Intelligence Officer,"Fort Hood, TX",Ogakor,Green,0,No Merge,N/A,15,1,0,7,0,1,0,1,16,0
+19,Maralyn Hershey,Australian Outback,51,Retired Police Officer,"Wakefield, VA",Ogakor,Green,0,No Merge,N/A,14,2,1,5,0,1,0,2,16,0
+20,Mitchell Olsen,Australian Outback,23,Singer/Songwriter,"Union City, NJ",Ogakor,Green,0,No Merge,N/A,13,3,2,6,0,1,0,3,16,0
+21,Kimmi Kappenberg,Australian Outback,27,Bartender,"Ronkonkoma, NY",Kucha,Blue,0,No Merge,N/A,12,2,1,6,0,3,0,2,16,0
+22,Micheal Skupin,Australian Outback,38,Software Company President,"White Lake, MI",Kucha,Blue,0,No Merge,N/A,11,2,2,0,0,3,0,2,16,0
+23,Jeff Varner,Australian Outback,34,Internet Projects Manager,"Manhattan, NY",Kucha,Blue,0,Barramundi,Orange,10,3,2,11,0,3,0,3,16,0
+24,Alicia Calaway,Australian Outback,32,Personal Trainer,"Manhattan, NY",Kucha,Blue,0,Barramundi,Orange,9,5,2,5,0,3,0,4,16,0
+25,Jerri Manthey,Australian Outback,30,Aspiring Actress,"Los Angeles, CA",Ogakor,Green,0,Barramundi,Orange,8,8,5,12,0,3,0,6,16,0
+26,Nick Brown,Australian Outback,23,Harvard Law Student,"Steilacoom, WA",Kucha,Blue,0,Barramundi,Orange,7,7,3,4,0,3,1,6,16,0
+27,Amber Brkich,Australian Outback,22,Administrative Assistant,"Beaver, PA",Ogakor,Green,0,Barramundi,Orange,6,10,6,6,0,3,0,8,16,0
+28,Rodger Bingham,Australian Outback,53,Teacher/Farmer,"Crittenden, KY",Kucha,Blue,0,Barramundi,Orange,5,9,4,5,0,3,0,8,16,0
+29,Elisabeth Filarski,Australian Outback,23,Footwear Designer,"Newton, MA",Kucha,Blue,0,Barramundi,Orange,4,10,4,5,0,3,0,9,16,0
+30,Keith Famie,Australian Outback,40,Chef,"West Bloomfield, MI",Ogakor,Green,0,Barramundi,Orange,3,11,11,10,0,3,2,11,16,0
+31,Colby Donaldson,Australian Outback,26,Auto Customizer,"Dallas, TX",Ogakor,Green,0,Barramundi,Orange,2,12,12,9,0,3,5,11,16,0
+32,Tina Wesson,Australian Outback,39,Personal Nurse,"Knoxville, TN",Ogakor,Green,0,Barramundi,Orange,1,12,12,0,0,3,0,11,16,0
+33,Diane Ogden,Africa,42,Mail Carrier,"Lincoln, NE",Boran,Yellow,0,No Merge,N/A,16,1,0,6,0,0,0,1,16,0
+34,Jessie Camacho,Africa,26,Sheriff,"Orlando, FL",Boran,Yellow,0,No Merge,N/A,15,2,1,5,0,0,0,2,16,0
+35,Carl Bilancione,Africa,46,Dentist,"Winter Springs, FL",Samburu,Red,0,No Merge,N/A,14,1,0,7,0,2,0,1,16,0
+36,Linda Spencer,Africa,44,Career Counselor,"Boston, MA",Samburu,Red,0,No Merge,N/A,13,3,0,4,0,2,0,2,16,0
+37,Silas Gaither,Africa,23,Bartender,"Los Angeles, CA",Samburu,Red,1,No Merge,N/A,12,4,3,8,0,2,0,3,16,0
+38,Lindsey Richter,Africa,26,Advertising Executive,"Portland, OR",Samburu,Red,1,No Merge,N/A,11,3,2,12,0,3,0,3,16,0
+39,Clarence Black,Africa,24,Basketball Coach,"Detriot, MI",Boran,Yellow,1,Moto Maji,Teal,10,4,3,12,0,3,0,4,16,0
+40,Kelly Goldsmith,Africa,22,Behavior Analyst,"San Diego, CA",Boran,Yellow,1,Moto Maji,Teal,9,6,5,5,0,3,0,5,16,0
+41,Brandon Quinton,Africa,25,Bartender,"Dallas, TX",Samburu,Red,1,Moto Maji,Teal,8,8,5,6,0,3,0,6,16,0
+42,Frank Garrison,Africa,42,Telephone Technician,"Odessa, NY",Samburu,Red,1,Moto Maji,Teal,7,8,4,9,0,3,0,7,16,0
+43,Kim Powers,Africa,29,Freelance Marketer,"Conshohocken, PA",Samburu,Red,1,Moto Maji,Teal,6,10,6,4,0,3,0,8,16,0
+44,Teresa Cooper,Africa,42,Flight Attendant,"Jackson, GA",Samburu,Red,1,Moto Maji,Teal,5,10,3,4,0,3,1,9,16,0
+45,Tom Buchanan,Africa,45,Goat Farmer,"Rich Valley, VA",Boran,Yellow,1,Moto Maji,Teal,4,10,7,9,0,3,1,10,16,0
+46,Lex van den Berghe,Africa,38,Marketing Manager,"Santa Cruz, CA",Boran,Yellow,1,Moto Maji,Teal,3,11,10,10,0,3,3,11,16,0
+47,Kim Johnson,Africa,56,Retired Teacher,"Oyster Bay, NY",Boran,Yellow,1,Moto Maji,Teal,2,11,11,1,0,3,2,11,16,0
+48,Ethan Zohn,Africa,27,Professional Soccer Player,"New York City, NY",Boran,Yellow,1,Moto Maji,Teal,1,10,10,0,0,3,1,11,16,0
+49,Peter Harkey,Marquesas,45,Bowling Alley Owner,"Millis, MA",Maraamu,Green,0,No Merge,N/A,16,1,0,5,0,0,0,1,16,0
+50,Patricia Jackson,Marquesas,49,Truck Assembler,"Lugoff, SC",Maraamu,Green,0,No Merge,N/A,15,2,1,5,0,0,0,2,16,0
+51,Hunter Ellis,Marquesas,33,Ex-Navy Fighter Pilot,"La Jolla, CA",Maraamu,Green,0,No Merge,N/A,14,3,1,4,0,0,0,3,16,0
+52,Sarah Jones,Marquesas,24,Account Manager,"Newport Beach, CA",Maraamu,Green,1,No Merge,N/A,13,4,3,11,0,0,0,4,16,0
+53,Gabriel Cade,Marquesas,23,Bartender,"Hollywood, CA",Rotu,Blue,1,No Merge,N/A,12,1,0,7,0,4,0,1,16,0
+54,Gina Crews,Marquesas,28,Nature Guide,"Gainesville, FL",Maraamu,Green,1,No Merge,N/A,11,5,2,3,0,1,0,5,16,0
+55,Rob Mariano,Marquesas,25,Construction Worker,"Canton, MA",Maraamu,Green,1,Soliantu,Magenta,10,5,4,8,0,2,0,5,16,0
+56,John Carroll,Marquesas,36,Nurse,"Omaha, NE",Rotu,Blue,1,Soliantu,Magenta,9,3,2,6,0,5,0,3,16,0
+57,Zoe Zanidakis,Marquesas,35,Fishing Boat Captain,"Monhegan Island, ME",Rotu,Blue,1,Soliantu,Magenta,8,4,3,7,0,5,0,4,16,0
+58,Tammy Leitner,Marquesas,29,Crime Reporter,"Mesa, AZ",Rotu,Blue,1,Soliantu,Magenta,7,5,3,5,0,5,2,5,16,0
+59,Robert DeCanio,Marquesas,38,Limousine Driver,"College Point, NY",Rotu,Blue,1,Soliantu,Magenta,6,6,3,6,0,5,1,6,16,0
+60,Sean Rector,Marquesas,30,Teacher,"Los Angeles, CA",Maraamu,Green,1,Soliantu,Magenta,5,10,7,7,0,2,0,10,16,0
+61,Paschal English,Marquesas,56,Judge,"Thomaston, GA",Rotu,Blue,1,Soliantu,Magenta,4,9,8,0,0,4,0,9,16,0
+62,Kathy Vavrick-O'Brien,Marquesas,46,Real Estate Agent,"Burlington, VA",Rotu,Blue,1,Soliantu,Magenta,3,9,7,5,0,4,2,10,16,0
+63,Neleh Dennis,Marquesas,21,Student,"Layton, UT",Rotu,Blue,1,Soliantu,Magenta,2,10,9,4,0,4,1,10,16,0
+64,Vecepia Towery,Marquesas,35,Office Manager,"Hayward, CA",Maraamu,Green,1,Soliantu,Magenta,1,11,9,2,0,2,2,12,16,0
+65,John Raymond,Thailand,40,Pastor,"Slidell, LA",Chuay Gahn,Orange,0,No Merge,N/A,16,1,0,6,0,0,0,1,16,0
+66,Tanya Vance,Thailand,27,Social Worker,"Gray, TN",Chuay Gahn,Orange,0,No Merge,N/A,15,2,1,5,0,0,0,2,16,0
+67,Jed Hildebrand,Thailand,25,Dental Student,"Dallas, TX",Sook Jai,Purple,0,No Merge,N/A,14,1,0,5,0,2,0,1,16,0
+68,Ghandia Johnson,Thailand,33,Legal Secretary,"Denver, CO",Chuay Gahn,Orange,0,No Merge,N/A,13,3,1,5,0,1,0,3,16,0
+69,Stephanie Dill,Thailand,29,Firefighter,"Ozark, AR",Sook Jai,Purple,0,No Merge,N/A,12,2,0,5,0,3,0,2,16,0
+70,Robb Zbacnik,Thailand,23,Bartender,"Scottsdale, AR",Sook Jai,Purple,0,No Merge,N/A,11,3,0,5,0,3,0,3,16,0
+71,Shii Ann Huang,Thailand,28,Executive Recruiter,"New York City, NY",Sook Jai,Purple,0,No Merge,N/A,10,4,3,10,0,3,0,4,16,0
+72,Erin Collins,Thailand,26,Real Estate Agent,"Austin, TX",Sook Jai,Purple,0,No Merge,N/A,9,5,4,3,0,3,0,5,16,0
+73,Ken Stafford,Thailand,29,Police Officer,"Brooklyn, NY",Sook Jai,Purple,0,Chuay Jai,Yellow,8,6,5,6,0,3,0,6,16,0
+74,Penny Ramsey,Thailand,27,Pharmaceutical Saleswoman,"Plano, TX",Sook Jai,Purple,0,Chuay Jai,Yellow,7,7,5,5,0,3,0,7,16,0
+75,Jake Billingsley,Thailand,60,Land Broker,"McKinney, TX",Sook Jai,Purple,0,Chuay Jai,Yellow,6,8,5,7,0,3,0,8,16,0
+76,Ted Rogers Jr.,Thailand,37,Software Developer,"Durham, NC",Chuay Gahn,Orange,0,Chuay Jai,Yellow,5,7,6,7,0,5,1,7,16,0
+77,Helen Glover,Thailand,47,Navy Swim Instructor,"Middletown, RI",Chuay Gahn,Orange,0,Chuay Jai,Yellow,4,8,6,5,0,5,1,8,16,0
+78,Jan Gentry,Thailand,53,Teacher,"Tampa, FL",Chuay Gahn,Orange,0,Chuay Jai,Yellow,3,8,7,5,0,5,0,9,16,0
+79,Clay Jordan,Thailand,46,Restaurant Owner,"Monroe, LA",Chuay Gahn,Orange,0,Chuay Jai,Yellow,2,8,7,3,0,5,1,9,16,0
+80,Brian Heidik,Thailand,34,Used Car Salesman,"Quartz Hill, CA",Chuay Gahn,Orange,0,Chuay Jai,Yellow,1,9,9,0,0,5,3,9,16,0
+81,Ryan Aiken,The Amazon,23,Model,"Ellicott City, MD",Tambaqui,Blue,0,No Merge,N/A,16,1,0,4,0,0,0,1,16,0
+82,Janet Koth,The Amazon,46,Homemaker,"Manchester, MO",Jaburu,Yellow,0,No Merge,N/A,15,1,0,5,0,1,0,1,16,0
+83,Daniel Lue,The Amazon,26,Tax Accountant,"Houston, TX",Tambaqui,Blue,0,No Merge,N/A,14,2,0,7,0,1,0,2,16,0
+84,JoAnna Ward,The Amazon,31,Guidance Counselor,"Orangeburg, SC",Jaburu,Yellow,0,No Merge,N/A,13,2,0,4,0,2,0,2,16,0
+85,Jeanne Hebert,The Amazon,40,Marketing Director,"North Attleboro, MA",Jaburu,Yellow,1,No Merge,N/A,12,3,1,5,0,2,0,3,16,0
+86,Shawna Mitchell,The Amazon,23,Retail Saleswoman,"Los Angeles, CA",Jaburu,Yellow,1,No Merge,N/A,11,3,1,6,0,3,0,3,16,0
+87,Roger Sexton,The Amazon,56,Construction Company VP,"Valencia, CA",Tambaqui,Blue,1,Jacaré,Red,10,4,3,11,0,3,0,4,16,0
+88,Dave Johnson,The Amazon,23,Rocket Scientist,"Pasadena, CA",Tambaqui,Blue,1,Jacaré,Red,9,5,2,8,0,3,0,5,16,0
+89,Deena Bennett,The Amazon,35,Deputy District Attorney,"Riverside, CA",Jaburu,Yellow,1,Jacaré,Red,8,6,5,6,0,3,1,6,16,0
+90,Alex Bell,The Amazon,32,Triathlon Coach,"Los Angeles, CA",Tambaqui,Blue,1,Jacaré,Red,7,7,5,6,0,3,0,7,16,0
+91,Christy Smith,The Amazon,24,Children's Adventure Guide,"Basalt, CO",Jaburu,Yellow,1,Jacaré,Red,6,8,4,9,0,3,0,8,16,0
+92,Heidi Strobel,The Amazon,24,Gym Teacher,"Jefferson City, MO",Jaburu,Yellow,1,Jacaré,Red,5,9,8,3,0,3,1,9,16,0
+93,Butch Lockley,The Amazon,50,School Principal,"Olney, IL",Tambaqui,Blue,1,Jacaré,Red,4,10,7,5,0,3,0,10,16,0
+94,Rob Cesternino,The Amazon,24,Computer Projects Coordinator,"Wantagh, NY",Tambaqui,Blue,1,Jacaré,Red,3,10,10,4,0,3,1,11,16,0
+95,Matthew von Ertfelda,The Amazon,33,Restaurant Designer,"Washington, DC",Tambaqui,Blue,1,Jacaré,Red,2,10,9,6,0,3,2,11,16,0
+96,Jenna Morasca,The Amazon,21,Swimsuit Model,"Bridgeville, PA",Jaburu,Yellow,1,Jacaré,Red,1,11,10,3,0,3,3,11,16,0
+97,Nicole Delma,Pearl Islands,24,Massage Therapist,"Hermosa Beach, CA",Morgan,Orange,0,No Merge,N/A,16,1,0,7,0,0,0,1,16,0
+98,Ryan Shoulders,Pearl Islands,23,Produce Clerk,"Clarksville, TN",Morgan,Orange,0,No Merge,N/A,15,2,1,6,0,0,0,2,16,0
+99,Michelle Tesauro,Pearl Islands,22,Student,"Washington, DC",Drake,Blue,0,No Merge,N/A,14,2,0,6,0,3,0,2,16,0
+100,Trish Dunn,Pearl Islands,42,Sales Executive,"Annapolis, MD",Drake,Blue,0,No Merge,N/A,13,3,2,4,0,3,0,3,16,0
+101,Shawn Cohen,Pearl Islands,28,Advertising Salesman,"Los Angeles, CA",Drake,Blue,0,No Merge,N/A,12,4,3,5,0,3,0,4,16,0
+102,Osten Taylor,Pearl Islands,27,Equity Trade Manager,"Boston, MA",Morgan,Orange,0,No Merge,N/A,11,3,3,2,0,3,0,4,16,0
+103,Andrew Savage,Pearl Islands,39,Attorney,"Chicago, IL",Morgan,Orange,0,Balboa,Black,10,4,3,6,0,3,0,5,16,0
+104,Ryan Opray,Pearl Islands,30,Electrician,"Los Gatos, CA",Morgan,Orange,0,Balboa,Black,9,5,3,8,0,3,0,6,16,0
+105,Rupert Boneham,Pearl Islands,39,Troubled Teens Mentor,"Indianapolis, IN",Drake,Blue,0,Balboa,Black,8,6,5,7,0,3,2,6,16,0
+106,Tijuana Bradley,Pearl Islands,26,Pharmaceutical Saleswoman,"St. Louis, MO",Morgan,Orange,0,Balboa,Black,7,7,5,5,0,3,0,8,16,0
+107,Christa Hastie,Pearl Islands,24,Computer Programmer,"Los Angeles, CA",Drake,Blue,0,Balboa,Black,6,9,7,7,0,3,0,9,16,0
+108,Burton Roberts,Pearl Islands,31,Marketing Executive,"San Francisco, CA",Drake,Blue,0,Balboa,Black,5,7,5,10,0,3,1,7,16,0
+109,Darrah Johnson,Pearl Islands,22,Mortician,"Liberty, MS",Morgan,Orange,0,Balboa,Black,4,10,7,6,0,3,3,11,16,0
+110,"Jon ""Jonny Fairplay"" Dalton",Pearl Islands,29,Art Consultant,"Los Angeles, CA",Drake,Blue,0,Balboa,Black,3,11,9,7,0,3,0,12,16,0
+111,Lillian Morris,Pearl Islands,51,Scoutmaster,"Loveland, OH",Morgan,Orange,0,Balboa,Black,2,11,9,10,0,0,1,11,16,0
+112,Sandra Diaz-Twine,Pearl Islands,29,Office Assistant,"Fort Lewis, WA",Drake,Blue,0,Balboa,Black,1,11,10,0,0,3,0,12,16,0
+113,Tina Wesson,All-Stars,42,Returning Player,"Knoxville, TN",Saboga,Yellow,0,No Merge,N/A,18,1,0,4,0,0,0,1,18,0
+114,Rudy Boesch,All-Stars,75,Returning Player,"Virginia Beach, VA",Saboga,Yellow,0,No Merge,N/A,17,2,1,3,0,0,0,2,18,0
+115,Jenna Morasca,All-Stars,22,Returning Player,"Bridgeville, PA",Mogo Mogo,Green,0,No Merge,N/A,16,0,0,0,0,2,0,0,18,0
+116,Rob Cesternino,All-Stars,25,Returning Player,"Plainview, NY",Chapera,Red,0,No Merge,N/A,15,1,0,5,0,2,0,1,18,0
+117,Richard Hatch,All-Stars,42,Returning Player,"Middletown, RI",Mogo Mogo,Green,1,No Merge,N/A,14,1,0,6,0,3,0,1,18,0
+118,Susan Hawk,All-Stars,42,Returning Player,"Las Vegas, NV",Chapera,Red,1,No Merge,N/A,13,1,1,0,0,3,0,1,18,0
+119,Colby Donaldson,All-Stars,29,Returning Player,"Los Angeles, CA",Mogo Mogo,Green,1,No Merge,N/A,12,2,1,4,0,4,0,2,18,0
+120,Ethan Zohn,All-Stars,29,Returning Player,"New York City, NY",Saboga,Yellow,1,No Merge,N/A,11,5,2,6,0,1,0,5,18,0
+121,Jerri Manthey,All-Stars,33,Returning Player,"Los Angeles, CA",Saboga,Yellow,2,No Merge,N/A,10,6,5,7,0,1,0,6,18,0
+122,Lex van den Berghe,All-Stars,40,Returning Player,"Santa Cruz, CA",Mogo Mogo,Green,2,Chaboga Mogo,Blue,9,5,4,7,0,3,0,5,18,0
+123,Kathy Vavrick-O'Brien,All-Stars,48,Returning Player,"Burlington, VA",Mogo Mogo,Green,2,Chaboga Mogo,Blue,8,5,3,6,0,3,2,5,18,0
+124,Alicia Calaway,All-Stars,35,Returning Player,"New York City, NY",Chapera,Red,2,Chaboga Mogo,Blue,7,4,3,7,0,6,0,4,18,0
+125,Shii Ann Huang,All-Stars,29,Returning Player,"New York City, NY",Mogo Mogo,Green,2,Chaboga Mogo,Blue,6,8,6,5,0,3,1,8,18,0
+126,Tom Buchanan,All-Stars,48,Returning Player,"Rich Valley, VA",Chapera,Red,2,Chaboga Mogo,Blue,5,6,5,4,0,6,1,6,18,0
+127,Rupert Boneham,All-Stars,39,Returning Player,"Indianapolis, IN",Saboga,Yellow,2,Chaboga Mogo,Blue,4,8,6,4,0,5,0,8,18,0
+128,Jenna Lewis,All-Stars,26,Returning Player,"Burbank, CA",Saboga,Yellow,2,Chaboga Mogo,Blue,3,8,8,4,0,5,0,9,18,0
+129,Rob Mariano,All-Stars,27,Returning Player,"Canton, MA",Chapera,Red,2,Chaboga Mogo,Blue,2,8,8,1,0,6,4,8,18,0
+130,Amber Brkich,All-Stars,26,Returning Player,"Beaver, PA",Chapera,Red,2,Chaboga Mogo,Blue,1,8,8,6,0,5,1,9,18,0
+131,Brook Geraghty,Vanuatu,27,Document Manager,"Winthrop, MA",Lopevi,Red,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,0
+132,Dolly Neely,Vanuatu,25,Sheep Farmer,"Mercer, PA",Yasur,Yellow,0,No Merge,N/A,17,1,0,5,0,1,0,1,18,0
+133,John Palyok,Vanuatu,31,Sales Manager,"Los Angeles, CA",Lopevi,Red,0,No Merge,N/A,16,2,0,5,0,1,0,1,18,0
+134,Mia Galeotalanza,Vanuatu,29,Bookkeeper,"Boston, MA",Yasur,Yellow,0,No Merge,N/A,15,2,0,5,0,2,0,1,18,0
+135,Brady Finta,Vanuatu,33,FBI Agent,"Huntington Beach, CA",Lopevi,Red,0,No Merge,N/A,14,3,0,6,0,2,0,2,18,0
+136,"Travis ""Bubba"" Sampson",Vanuatu,33,Security Officer,"Johnson City, TN",Lopevi,Red,1,No Merge,N/A,13,4,3,6,0,2,0,3,18,0
+137,Lisa Keiffer,Vanuatu,44,Real Estate Agent,"Mandeville, LA",Yasur,Yellow,1,No Merge,N/A,12,4,1,4,0,3,0,3,18,0
+138,John Kenney,Vanuatu,22,Mechanical Bull Operator,"Los Angeles, CA",Lopevi,Red,1,No Merge,N/A,11,4,1,5,0,3,1,3,18,0
+139,Rory Freeman,Vanuatu,35,Housing Case Manager,"Des Moines, IA",Lopevi,Red,1,Alinta,Orange,10,6,5,14,0,2,0,6,18,0
+140,"Lea ""Sarge"" Masters",Vanuatu,40,Drill Sergeant,"Columbia, SC",Lopevi,Red,1,Alinta,Orange,9,6,4,7,0,3,1,6,18,0
+141,Chad Crittenden,Vanuatu,34,Teacher,"Oakland, CA",Lopevi,Red,1,Alinta,Orange,8,7,4,7,0,3,0,7,18,0
+142,Leann Slaby,Vanuatu,34,Equity Research Assistant,"Kansasville, WI",Yasur,Yellow,1,Alinta,Orange,7,8,7,8,0,3,0,8,18,0
+143,Ami Cusack,Vanuatu,31,Coffee Barista,"Lakewood, CO",Yasur,Yellow,1,Alinta,Orange,6,9,7,8,0,3,3,9,18,0
+144,Julie Berry,Vanuatu,23,Youth Mentor,"Gorham, ME",Yasur,Yellow,1,Alinta,Orange,5,9,4,4,0,4,0,9,18,0
+145,Eliza Orlins,Vanuatu,21,Pre-Law Student,"Syracuse, NY",Yasur,Yellow,1,Alinta,Orange,4,11,9,9,0,3,1,11,18,0
+146,Scout Cloud Lee,Vanuatu,59,Rancher,"Stillwater, OK",Yasur,Yellow,1,Alinta,Orange,3,11,11,3,0,3,0,12,18,0
+147,Twila Tanner,Vanuatu,41,Highway Repair Worker,"Marshall, MO",Yasur,Yellow,1,Alinta,Orange,2,10,10,6,0,4,1,11,18,0
+148,Chris Daugherty,Vanuatu,33,Highway Construction Worker,"South Vienna, OH",Lopevi,Red,1,Alinta,Orange,1,12,10,3,0,3,3,12,18,0
+149,Wanda Shirk,Palau,55,English Teacher,"Ulysses, PA",No Tribe,N/A,0,No Merge,N/A,20,0,0,0,0,0,0,0,20,0
+150,Jonathan Libby,Palau,23,Sales & Marketing Associate,"Dallas, TX",No Tribe,N/A,0,No Merge,N/A,19,0,0,0,0,0,0,0,20,0
+151,Jolanda Jones,Palau,38,Lawyer,"Houston, TX",Ulong,Blue,0,No Merge,N/A,18,1,0,6,0,0,1,1,20,0
+152,Ashlee Ashby,Palau,22,Student,"Easley, SC",Ulong,Blue,0,No Merge,N/A,17,2,1,6,0,0,0,2,20,0
+153,Jeff Wilson,Palau,21,Personal Trainer,"Ventura, CA",Ulong,Blue,0,No Merge,N/A,16,3,2,5,0,0,0,3,20,0
+154,Kim Mullen,Palau,25,Graduate Student,"Huber Heights, OH",Ulong,Blue,0,No Merge,N/A,15,4,3,8,0,0,0,4,20,0
+155,Willard Smith,Palau,56,Lawyer,"Bellevue, WA",Koror,Brown,0,No Merge,N/A,14,1,0,8,0,4,0,1,20,0
+156,Angie Jakusz,Palau,24,Bartender,"New Orleans, LA",Ulong,Blue,0,No Merge,N/A,13,5,4,8,0,0,0,5,20,0
+157,James Miller,Palau,33,Steelworker,"Mobile, AL",Ulong,Blue,0,No Merge,N/A,12,7,5,7,0,0,0,6,20,0
+158,Ibrehem Rahman,Palau,27,Waiter,"Birmingham, AL",Ulong,Blue,0,No Merge,N/A,11,8,4,4,0,0,1,7,20,0
+159,Bobby Jon Drinkard,Palau,27,Waiter,"Los Angeles, CA",Ulong,Blue,0,No Merge,N/A,10,8,6,2,0,0,0,8,20,0
+160,Coby Archa,Palau,32,Hairdresser,"Athens, TX",Koror,Brown,0,Koror,Brown,9,2,1,7,0,7,0,2,20,0
+161,Janu Tornell,Palau,39,Vegas Showgirl,"Las Vegas, NV",Koror,Brown,0,Koror,Brown,8,2,1,1,0,7,0,3,20,0
+162,Stephenie LaGrossa,Palau,24,Pharmaceutical Sales Representative,"Toms River, NJ",Ulong,Blue,0,Koror,Brown,7,11,8,8,0,0,0,10,20,0
+163,Gregg Carey,Palau,27,Business Consultant,"Chicago, IL",Koror,Brown,0,Koror,Brown,6,4,3,7,0,7,0,5,20,0
+164,Caryn Groedel,Palau,46,Civil Rights Lawyer,"Solon, OH",Koror,Brown,0,Koror,Brown,5,5,4,7,0,7,0,6,20,0
+165,Jenn Lyon,Palau,32,Nanny,"Encino, CA",Koror,Brown,0,Koror,Brown,4,6,4,3,0,7,0,7,20,0
+166,Ian Rosenberger,Palau,23,Dolphin Trainer,"Ambridge, PA",Koror,Brown,0,Koror,Brown,3,6,6,5,0,7,3,8,20,0
+167,Katie Gallagher,Palau,29,Advertising Executive,"Merced, GA",Koror,Brown,0,Koror,Brown,2,7,7,1,0,7,0,8,20,0
+168,Tom Westman,Palau,40,Firefighter,"Sayville, NY",Koror,Brown,0,Koror,Brown,1,8,6,0,0,7,5,8,20,0
+169,Jim Lynch,Guatemala,63,Retired Fire Captain,"Northglenn, CO",Nakúm,Yellow,0,No Merge,N/A,18,1,0,8,0,0,0,1,18,0
+170,Morgan McDevitt,Guatemala,21,Magician's Assistant,"Decatur, IL",Yaxhá,Blue,0,No Merge,N/A,17,1,0,8,0,1,0,1,18,0
+171,Brianna Varela,Guatemala,21,Retail Salesperson,"Edmonds, WA",Yaxhá,Blue,0,No Merge,N/A,16,2,1,7,0,1,0,2,18,0
+172,Brooke Struck,Guatemala,25,Law Student,"Hood River, OR",Nakúm,Yellow,1,No Merge,N/A,15,2,1,5,0,2,0,2,18,0
+173,Blake Towsley,Guatemala,24,Real Estate Broker,"Dallas, TX",Nakúm,Yellow,1,No Merge,N/A,14,2,1,5,0,3,0,2,18,0
+174,Margaret Bobonich,Guatemala,43,Nursing Practitioner,"Chardon, OH",Nakúm,Yellow,1,No Merge,N/A,13,3,1,6,0,3,0,3,18,0
+175,Brian Corridan,Guatemala,22,Ivy League Student,"New York City, NY",Yaxhá,Blue,1,No Merge,N/A,12,4,3,7,0,2,0,4,18,0
+176,Amy O'Hara,Guatemala,39,Police Sergeant,"Revere, MA",Yaxhá,Blue,1,No Merge,N/A,11,5,4,4,0,2,0,5,18,0
+177,Brandon Bellinger,Guatemala,22,Farmer,"Manhattan, KS",Nakúm,Yellow,1,Xhakúm,Red,10,5,3,6,0,3,0,5,18,0
+178,Bobby Jon Drinkard,Guatemala,28,Returning Player,"Los Angeles, CA",Nakúm,Yellow,1,Xhakúm,Red,9,6,4,8,0,3,0,6,18,0
+179,Jamie Newton,Guatemala,24,Water Ski Instructor,"North Hollywood, CA",Yaxhá,Blue,1,Xhakúm,Red,8,7,6,10,0,3,1,7,18,0
+180,Gary Hogeboom,Guatemala,46,Former NFL Quarterback,"Grand Haven, MI",Yaxhá,Blue,1,Xhakúm,Red,7,9,6,8,0,2,2,9,18,1
+181,Judd Sergeant,Guatemala,34,Hotel Doorman,"Ridgefield, NJ",Nakúm,Yellow,1,Xhakúm,Red,6,8,6,5,0,4,0,8,18,0
+182,Cindy Hall,Guatemala,30,Zookeeper,"Naples, FL",Nakúm,Yellow,1,Xhakúm,Red,5,9,6,6,0,4,0,9,18,0
+183,Lydia Morales,Guatemala,42,Fishmonger,"Lakewood, WA",Yaxhá,Blue,1,Xhakúm,Red,4,11,10,10,0,3,0,11,18,0
+184,Rafe Judkins,Guatemala,22,Wilderness Guide,"Pittsburgh, PA",Yaxhá,Blue,1,Xhakúm,Red,3,11,11,2,0,3,4,12,18,0
+185,Stephenie LaGrossa,Guatemala,25,Returning Player,"Toms River, NJ",Yaxhá,Blue,1,Xhakúm,Red,2,11,11,2,0,3,1,12,18,0
+186,Danni Boatwright,Guatemala,29,Sports Radio Host,"Tonganoxie, KS",Nakúm,Yellow,1,Xhakúm,Red,1,12,10,1,0,3,2,12,18,0
+187,Tina Scheer,Panama,44,Lumberjill,"Hayward, WI",Casaya,Purple,0,No Merge,N/A,16,1,0,3,0,0,0,1,16,0
+188,Melinda Hyder,Panama,32,Singer/Songwriter,"Sevierville, TN",Casaya,Purple,1,No Merge,N/A,15,2,1,5,0,0,0,2,16,0
+189,Misty Giles,Panama,24,Missile Engineer,"Dallas, TX",Bayoneta,Blue,1,No Merge,N/A,14,1,0,5,0,2,0,1,16,0
+190,Ruth Marie Milliman,Panama,48,Property Developer,"Greenville, SC",Casaya,Purple,1,No Merge,N/A,13,3,2,6,0,2,0,3,16,0
+191,Bobby Mason,Panama,32,Attorney,"Los Angeles, CA",Viveros,Green,1,No Merge,N/A,12,2,1,3,0,3,0,2,16,0
+192,Dan Barry,Panama,51,Astronaut,"South Hadley, MA",La Mina,Orange,1,No Merge,N/A,11,3,1,3,0,3,0,3,16,0
+193,Nick Stanbury,Panama,25,Financial Salesman,"Tempe, AZ",Viveros,Green,1,Gitanos,Black,10,4,3,6,0,3,0,4,16,0
+194,Austin Carty,Panama,24,Writer,"High Point, NC",Viveros,Green,1,Gitanos,Black,9,5,3,7,0,3,0,5,16,0
+195,Sally Schumann,Panama,26,Social Worker,"Chicago, IL",Bayoneta,Blue,1,Gitanos,Black,8,5,1,8,0,3,0,5,16,0
+196,Bruce Kanegai,Panama,57,Art Teacher,"Simi Valley, CA",La Mina,Orange,1,Gitanos,Black,7,4,3,2,0,3,0,4,16,0
+197,Courtney Marit,Panama,31,Fire Dancer,"Los Angeles, CA",Bayoneta,Blue,1,Gitanos,Black,6,6,5,4,0,4,0,6,16,0
+198,Shane Powers,Panama,34,Marketing Executive,"Los Angeles, CA",La Mina,Orange,1,Gitanos,Black,5,7,4,9,0,4,0,7,16,0
+199,Cirie Fields,Panama,35,Nurse,"Walterboro, SC",Casaya,Purple,1,Gitanos,Black,4,9,7,3,0,3,0,9,16,0
+200,Terry Deitz,Panama,46,Pilot,"Simsbury, CT",La Mina,Orange,1,Gitanos,Black,3,9,4,1,0,3,5,10,16,0
+201,Danielle DiLorenzo,Panama,24,Medical Sales Representative,"Pompano Beach, FL",Bayoneta,Blue,1,Gitanos,Black,2,9,9,4,0,4,1,9,16,0
+202,Aras Baskauskas,Panama,24,Yoga Instructor,"Santa Monica, CA",Viveros,Green,1,Gitanos,Black,1,8,7,9,0,4,1,9,16,0
+203,Sekou Bunch,Cook Islands,45,Jazz Musician,"Los Angeles, CA",Manihiki,Yellow,0,No Merge,N/A,20,1,0,3,0,0,0,1,20,0
+204,Billy Garcia,Cook Islands,36,Heavy Metal Musician,"New York City, NY",Aitutaki,Red,0,No Merge,N/A,19,1,0,4,0,1,0,1,20,0
+205,Cecilia Mansilla,Cook Islands,29,Risk Consultant,"Oakland, CA",Aitutaki,Red,1,No Merge,N/A,18,2,1,5,0,1,0,2,20,0
+206,J.P. Calderon,Cook Islands,30,Professional Volleyball Player,"Long Beach, CA",Aitutaki,Red,1,No Merge,N/A,17,2,1,7,0,2,0,2,20,0
+207,Stephannie Favor,Cook Islands,35,Nursing Student,"Columbia, SC",Manihiki,Yellow,1,No Merge,N/A,16,3,2,9,0,2,0,3,20,0
+208,Cao Boi Cui,Cook Islands,42,Nail Salon Manager,"Christiansburg, VA",Puka Puka,Green,1,No Merge,N/A,15,2,1,6,0,4,0,2,20,0
+209,Cristina Coria,Cook Islands,35,Police Officer,"Los Angeles, CA",Aitutaki,Red,1,No Merge,N/A,14,4,3,5,0,2,0,4,20,0
+210,Jessica Smith,Cook Islands,27,Roller Girl,"Chico, CA",Rarotonga,Blue,1,No Merge,N/A,13,3,1,6,0,4,0,3,20,0
+211,Brad Virata,Cook Islands,29,Fashion Director,"Santa Monica, CA",Puka Puka,Green,2,No Merge,N/A,12,4,2,7,0,4,0,4,20,0
+212,Rebecca Borman,Cook Islands,34,Makeup Artist,"Laurelton, NY",Manihiki,Yellow,2,No Merge,N/A,11,6,5,6,0,3,0,6,20,0
+213,Jenny Guzon-Bee,Cook Islands,36,Real Estate Agent,"Lake Forest, IL",Puka Puka,Green,2,No Merge,N/A,10,6,5,6,0,4,0,5,20,0
+214,Nate Gonzalez,Cook Islands,25,Shoe Salesman,"Playa del Ray, CA",Manihiki,Yellow,2,Aitutonga,Black,9,7,4,5,0,3,0,6,20,0
+215,Candice Woodcock,Cook Islands,23,Pre-Med Student,"Washington, DC",Rarotonga,Blue,2,Aitutonga,Black,8,7,5,6,0,4,0,6,20,0
+216,Jonathan Penner,Cook Islands,44,Writer,"Los Angeles, CA",Rarotonga,Blue,2,Aitutonga,Black,7,9,8,15,0,4,0,8,20,0
+217,Parvati Shallow,Cook Islands,23,Boxer,"West Hollywood, CA",Rarotonga,Blue,2,Aitutonga,Black,6,10,7,4,0,4,0,9,20,0
+218,Adam Gentry,Cook Islands,27,Copier Sales Executive,"San Diego, CA",Rarotonga,Blue,2,Aitutonga,Black,5,11,7,5,0,4,1,10,20,0
+219,Sundra Oakley,Cook Islands,31,Actress,"Los Angeles, CA",Manihiki,Yellow,2,Aitutonga,Black,4,10,8,6,0,5,0,10,20,0
+220,Becky Lee,Cook Islands,28,Attorney,"Washington, DC",Puka Puka,Green,2,Aitutonga,Black,3,9,9,5,0,6,0,9,20,0
+221,Ozzy Lusth,Cook Islands,24,Waiter,"Venice, CA",Aitutaki,Green,2,Aitutonga,Black,2,10,8,1,0,5,5,10,20,0
+222,Yul Kwon,Cook Islands,31,Management Consultant,"San Mateo, CA",Puka Puka,Green,2,Aitutonga,Black,1,9,9,5,0,6,0,9,20,0
+223,Jessica deBen,Fiji,27,Fashion Stylist,"Los Angeles, CA",Ravu,Orange,0,No Merge,N/A,19,1,0,6,0,0,0,1,19,0
+224,Erica Durousseau,Fiji,26,Non-profit Fundraiser,"Baton Rouge, LA",Ravu,Orange,0,No Merge,N/A,18,2,0,6,0,0,0,2,19,0
+225,Sylvia Kwan,Fiji,52,Architect,"Ross, CA",Ravu,Orange,0,No Merge,N/A,17,2,1,6,0,0,0,2,19,0
+226,Gary Stritesky,Fiji,55,School Bus Driver,"Ramsey, MN",Moto,Green,0,No Merge,N/A,16,0,0,0,0,0,0,0,19,0
+227,Liliana Gomez,Fiji,25,Loan Officer,"Los Angeles, CA",Moto,Green,0,No Merge,N/A,15,1,0,6,0,3,0,1,19,0
+228,Rita Verreos,Fiji,38,Single Mother,"San Antonio, TX",Ravu,Orange,0,No Merge,N/A,14,4,2,6,0,1,0,4,19,0
+229,Anthony Robinson,Fiji,32,Expert Witness Locator,"Compton, CA",Ravu,Orange,1,No Merge,N/A,13,5,3,10,0,1,0,5,19,0
+230,Rocky Reid,Fiji,28,Bartender,"Los Angeles, CA",Ravu,Orange,1,No Merge,N/A,12,6,3,5,0,1,0,6,19,0
+231,Lisi Linares,Fiji,36,Customer Service Representative,"Los Angeles, CA",Moto,Green,1,No Merge,N/A,11,3,2,7,0,4,0,3,19,0
+232,Michelle Yi,Fiji,22,Student,"Cincinatti, OH",Ravu,Orange,1,Bula Bula,Purple,10,5,3,3,0,4,0,5,19,0
+233,Edgardo Rivera,Fiji,28,Advertising Executive,"Miami Beach, FL",Moto,Green,1,Bula Bula,Purple,9,5,4,5,0,5,0,5,19,0
+234,Mookie Lee,Fiji,24,Business Consultant,"Chicago, IL",Ravu,Orange,1,Bula Bula,Purple,8,10,5,6,0,1,0,10,19,0
+235,Alex Angarita,Fiji,28,Lawyer,"Los Angeles, CA",Moto,Green,1,Bula Bula,Purple,7,8,6,9,0,4,0,8,19,1
+236,Stacy Kimball,Fiji,27,Web Producer,"Boulder, CO",Moto,Green,1,Bula Bula,Purple,6,6,4,4,0,7,1,6,19,0
+237,Boo Bernis,Fiji,34,Construction Worker,"Lafayette, LA",Moto,Green,1,Bula Bula,Purple,5,6,4,5,0,8,2,6,19,0
+238,Yau-Man Chan,Fiji,54,Internet Technology Director,"Martinez, CA",Ravu,Orange,1,Bula Bula,Purple,4,10,8,9,4,5,2,10,19,1
+239,Cassandra Franklin,Fiji,42,College Administrator,"Los Angeles, CA",Moto,Green,1,Bula Bula,Purple,3,7,6,5,0,8,0,7,19,0
+240,Dreamz Herd,Fiji,24,Cheerleading Coach,"Wilmington, NC",Moto,Green,1,Bula Bula,Purple,2,11,9,2,0,4,1,11,19,0
+241,Earl Cole,Fiji,35,Advertising Executive,"Santa Monica, CA",Ravu,Orange,1,Bula Bula,Purple,1,9,8,1,0,5,0,9,19,0
+242,Chicken Morris,China,47,Chicken Farmer,"Marion, VA",Zhan Hu,Yellow,0,No Merge,N/A,16,1,0,5,0,0,0,1,16,0
+243,Ashley Massaro,China,28,Professional Wrestler,"East Northport, NY",Zhan Hu,Yellow,0,No Merge,N/A,15,2,0,8,0,0,0,2,16,0
+244,Leslie Nease,China,38,Christian Radio Host,"Tega Cay, SC",Fei Long,Red,0,No Merge,N/A,14,1,0,6,0,2,0,1,16,0
+245,Dave Cruser,China,37,Former Model,"Simi Valley, CA",Zhan Hu,Yellow,0,No Merge,N/A,13,3,1,6,0,1,0,3,16,0
+246,Aaron Reisberger,China,32,Surfing Instructor,"Venice, CA",Fei Long,Red,1,No Merge,N/A,12,2,1,3,0,3,0,2,16,0
+247,Sherea Lloyd,China,25,Elementary Teacher,"Atlanta, GA",Zhan Hu,Yellow,1,No Merge,N/A,11,4,3,6,0,2,0,4,16,0
+248,Jaime Dugan,China,21,Student,"Columbia, SC",Zhan Hu,Yellow,1,Hae De Fung,Black,10,5,4,7,0,2,0,5,16,0
+249,Jean-Robert Bellande,China,36,Professional Poker Player,"Las Vegas, NV",Fei Long,Red,1,Hae De Fung,Black,9,4,3,12,0,4,0,4,16,0
+250,Frosti Zernow,China,20,Student/Athelete,"Chicago, IL",Zhan Hu,Yellow,1,Hae De Fung,Black,8,7,6,7,0,2,1,7,16,0
+251,James Clement,China,30,Gravedigger,"Lafayette, LA",Fei Long,Red,1,Hae De Fung,Black,7,6,4,9,0,4,0,6,16,0
+252,Erik Huffman,China,26,Musician,"Nashville, TN",Zhan Hu,Yellow,1,Hae De Fung,Black,6,9,7,5,0,2,1,9,16,0
+253,Peih-Gee Law,China,29,Jeweler,"Marina del Ray, CA",Zhan Hu,Yellow,1,Hae De Fung,Black,5,10,5,8,0,2,2,10,16,0
+254,Denise Martin,China,40,School Lunch Lady,"Douglas, MA",Fei Long,Red,1,Hae De Fung,Black,4,9,7,3,0,4,0,9,16,0
+255,Amanda Kimmel,China,22,Hiking Guide,"Los Angeles, CA",Fei Long,Red,1,Hae De Fung,Black,3,9,9,0,0,4,2,9,16,0
+256,Courtney Yates,China,26,Waitress,"New York City, NY",Fei Long,Red,1,Hae De Fung,Black,2,9,7,0,0,4,1,9,16,0
+257,Todd Herzog,China,22,Flight Attendant,"Pleasant Grove, UT",Fei Long,Red,1,Hae De Fung,Black,1,9,9,5,0,4,0,9,16,0
+258,"Jon ""Jonny Fairplay"" Dalton",Micronesia,33,Returning Player,"Los Angeles, CA",Malakal,Purple,0,No Merge,N/A,20,1,0,9,0,0,0,1,20,0
+259,Mary Sartain,Micronesia,28,Real Estate Manager,"Emeryville, CA",Airai,Orange,0,No Merge,N/A,19,1,0,6,0,1,0,1,20,0
+260,Yau-Man Chan,Micronesia,55,Returning Player,"Martinez, CA",Malakal,Purple,0,No Merge,N/A,18,2,1,6,0,1,1,2,20,0
+261,Mikey Bortone,Micronesia,33,Aspiring Writer,"Los Angeles, CA",Airai,Orange,0,No Merge,N/A,17,2,0,6,0,2,0,2,20,0
+262,Joel Anderson,Micronesia,32,Firefighter,"Avondale, AZ",Airai,Orange,1,No Merge,N/A,16,4,1,6,0,2,0,3,20,0
+263,Jonathan Penner,Micronesia,45,Returning Player,"Los Angeles, CA",Malakal,Purple,1,No Merge,N/A,15,2,1,0,0,2,0,2,20,0
+264,Chet Welch,Micronesia,48,Pageant Coach,"Ford City, PA",Airai,Orange,1,No Merge,N/A,14,4,3,15,0,2,0,4,20,0
+265,Kathy Sleckman,Micronesia,45,Golf Course Vendor,"Glen Ellyn, IL",Airai,Orange,1,No Merge,N/A,13,3,3,0,0,4,1,2,20,0
+266,Tracy Hughes-Wolf,Micronesia,43,Residental Builder,"Fredericksburg, VA",Airai,Orange,1,No Merge,N/A,12,6,4,7,0,2,0,5,20,0
+267,Ami Cusack,Micronesia,34,Returning Player,"Golden, CO",Malakal,Purple,1,No Merge,N/A,11,6,4,4,0,2,0,6,20,0
+268,Eliza Orlins,Micronesia,24,Returning Player,"Manhattan, NY",Malakal,Purple,1,Dabu,Green,10,3,2,8,0,6,0,3,20,0
+269,Ozzy Lusth,Micronesia,26,Returning Player,"Venice, CA",Malakal,Purple,1,Dabu,Green,9,8,7,9,0,2,1,8,20,0
+270,Jason Siska,Micronesia,22,Gymnastics Coach,"Fox River Grove, IL",Airai,Orange,1,Dabu,Green,8,6,1,9,0,6,1,5,20,0
+271,James Clement,Micronesia,30,Returning Player,"Lafayette, LA",Malakal,Purple,1,Dabu,Green,7,5,3,3,0,6,0,5,20,0
+272,Alexis Jones,Micronesia,24,Motivational Speaker,"Beverly Hills, CA",Airai,Orange,1,Dabu,Green,6,7,4,2,0,6,1,6,20,0
+273,Erik Reichenbach,Micronesia,21,Ice Cream Scooper,"Ypsilanti, MI",Airai,Orange,1,Dabu,Green,5,12,7,7,0,2,2,11,20,0
+274,Natalie Bolton,Micronesia,31,Personal Trainer,"West Hollywood, CA",Airai,Orange,1,Dabu,Green,4,9,7,3,0,6,1,8,20,0
+275,Cirie Fields,Micronesia,37,Returning Player,"Norwalk, CT",Malakal,Purple,1,Dabu,Green,3,12,10,3,0,2,0,13,20,0
+276,Amanda Kimmel,Micronesia,23,Returning Player,"Los Angeles, CA",Malakal,Purple,1,Dabu,Green,2,13,12,4,4,2,2,13,20,1
+277,Parvati Shallow,Micronesia,25,Returning Player,"Los Angeles, CA",Malakal,Purple,1,Dabu,Green,1,8,8,4,0,6,1,9,20,0
+278,Michelle Chase,Gabon,24,Music Producer,"Los Angeles, CA",Fang,Red,0,No Merge,N/A,18,1,0,8,0,0,0,1,18,0
+279,Gillian Larson,Gabon,61,Retired Nurse,"Temecula, CA",Fang,Red,0,No Merge,N/A,17,2,1,8,0,0,0,2,18,0
+280,Paloma Soto-Castillo,Gabon,23,Student,"Downey, CA",Kota,Yellow,0,No Merge,N/A,16,1,0,7,0,2,0,1,18,0
+281,Jacquie Berg,Gabon,25,Medical Saleswoman,"Santa Barbara, CA",Kota,Yellow,1,No Merge,N/A,15,2,1,5,0,2,0,2,18,0
+282,GC Brown,Gabon,25,Maintenance Man,"Portland, OR",Fang,Red,1,No Merge,N/A,14,4,3,6,0,1,0,4,18,0
+283,Kelly Czarnecki,Gabon,22,Retail Saleswoman,"Buffalo Grobe, IL",Kota,Yellow,1,No Merge,N/A,13,4,2,8,0,2,0,4,18,0
+284,Ace Gordon,Gabon,27,Jewelry Salesman/Photographer,"Naples, FL",Kota,Yellow,1,No Merge,N/A,12,5,3,5,0,2,0,5,18,0
+285,Dan Kay,Gabon,31,Lawyer,"Boston, MA",Fang,Red,1,No Merge,N/A,11,3,2,4,0,4,0,3,18,0
+286,Marcus Lehman,Gabon,28,Doctor,"Atlanta, GA",Kota,Yellow,2,No Merge,N/A,10,3,1,3,0,5,1,3,18,0
+287,Charlie Herschel,Gabon,29,Lawyer,"New York City, NY",Kota,Yellow,2,Nobag,Blue,9,3,2,5,0,6,0,3,18,0
+288,Randy Bailey,Gabon,49,Wedding Videographer,"Eagle Rock, MO",Fang,Red,2,Nobag,Blue,8,5,2,5,0,5,0,5,18,0
+289,Corinne Kaplan,Gabon,29,Pharmaceutical Saleswoman,"Los Angeles, CA",Kota,Yellow,2,Nobag,Blue,7,5,2,4,0,6,0,5,18,0
+290,Crystal Cox,Gabon,29,Olympic Gold Medalist,"Durham, NC",Fang,Red,2,Nobag,Blue,6,11,10,11,0,1,0,11,18,0
+291,Ken Hoang,Gabon,22,Professional Gamer,"Westminster, CA",Fang,Red,2,Nobag,Blue,5,12,9,7,0,1,1,12,18,0
+292,Matty Whitmore,Gabon,29,Personal Trainer,"Pacific Palisades, CA",Fang,Red,2,Nobag,Blue,4,12,10,7,2,2,0,12,18,1
+293,Sugar Kiper,Gabon,29,Pin-up Model,"Brooklyn, NY",Kota,Yellow,2,Nobag,Blue,3,10,10,0,0,3,1,10,18,0
+294,Susie Smith,Gabon,47,Hairdresser,"Charles City, IA",Fang,Red,2,Nobag,Blue,2,10,9,7,0,4,2,10,18,0
+295,Bob Crowley,Gabon,57,Physics Teacher,"Portland, ME",Kota,Yellow,2,Nobag,Blue,1,9,4,2,0,5,3,9,18,0
+296,Carolina Eastwood,Tocantins,27,Bartender,"West Hollywood, CA",Jalapao,Red,0,No Merge,N/A,16,1,0,7,0,0,0,1,16,0
+297,Candice Smith,Tocantins,31,Attorney,"Los Angeles, CA",Timbira,Black,0,No Merge,N/A,15,1,0,7,0,1,0,1,16,0
+298,Jerry Sims,Tocantins,49,U.S. Army Sergeant,"Rock Hill, SC",Timbira,Black,0,No Merge,N/A,14,2,1,6,0,1,0,2,16,0
+299,Sandy Burgin,Tocantins,53,Bus Driver,"Louisville, KY",Jalapao,Red,0,No Merge,N/A,13,2,1,6,0,2,0,2,16,0
+300,Spencer Duhm,Tocantins,18,Student,"Gainesville, FL",Jalapao,Red,0,No Merge,N/A,12,3,2,5,0,2,0,3,16,0
+301,Sydney Wheeler,Tocantins,24,Model,"San Diego, CA",Jalapao,Red,0,No Merge,N/A,11,4,3,4,0,2,0,4,16,0
+302,Joe Dowdle,Tocantins,26,Real Estate Salesman,"Austin, TX",Jalapao,Red,0,Forza,Green,10,4,3,1,0,2,0,4,16,0
+303,Brendan Synnott,Tocantins,30,Entrepreneur,"Vail, CO",Timbira,Black,0,Forza,Green,9,3,2,4,0,4,0,3,16,0
+304,Tyson Apostol,Tocantins,29,Professional Cyclist,"Heber City, UT",Timbira,Black,0,Forza,Green,8,4,2,5,0,4,2,4,16,0
+305,Sierra Reed,Tocantins,23,Model,"Los Angeles, CA",Timbira,Black,0,Forza,Green,7,5,3,11,0,4,0,5,16,0
+306,Debbie Beebe,Tocantins,46,School Principal,"Auburn, AL",Timbira,Black,0,Forza,Green,6,6,4,6,0,4,1,6,16,0
+307,Coach Wade,Tocantins,37,Soccer Coach,"Bolivar, MO",Timbira,Black,0,Forza,Green,5,7,4,6,0,4,1,7,16,0
+308,Taj Johnson-George,Tocantins,37,Former Pop Star,"Nashville, TN",Jalapao,Red,0,Forza,Green,4,10,7,7,0,2,0,10,16,0
+309,Erinn Lobdell,Tocantins,26,Hairstylist,"Milwaukee, WI",Timbira,Black,0,Forza,Green,3,8,6,5,0,4,0,9,16,0
+310,Stephen Fishbach,Tocantins,29,Corporate Consultant,"New York City, NY",Jalapao,Red,0,Forza,Green,2,10,10,1,0,2,1,11,16,0
+311,J.T. Thomas,Tocantins,24,Cattle Rancher,"Mobile, AL",Jalapao,Red,0,Forza,Green,1,11,10,0,0,2,3,11,16,0
+312,Marisa Calihan,Samoa,25,Student,"Cincinatti, OH",Foa Foa,Yellow,0,No Merge,N/A,20,1,0,7,0,0,0,1,20,0
+313,Mike Borassi,Samoa,62,Personal Chef,"Marina del Ray, CA",Foa Foa,Yellow,0,No Merge,N/A,19,1,1,0,0,0,0,1,20,0
+314,Betsy Bolan,Samoa,48,Police Officer,"Campton, NH",Foa Foa,Yellow,0,No Merge,N/A,18,2,0,7,0,0,0,2,20,0
+315,Ben Browning,Samoa,28,Bar Manager,"Los Angeles, CA",Foa Foa,Yellow,0,No Merge,N/A,17,3,2,7,0,0,0,3,20,0
+316,Yasmin Giles,Samoa,33,Hairstylist,"Los Angeles, CA",Galu,Purple,0,No Merge,N/A,16,1,0,8,0,3,0,1,20,0
+317,Ashley Trainer,Samoa,22,Spa Saleswoman,"Maple Grove, MN",Foa Foa,Yellow,0,No Merge,N/A,15,4,3,9,0,1,0,4,20,0
+318,Russell Swan,Samoa,42,Attorney,"Glenside, PA",Galu,Purple,0,No Merge,N/A,14,1,1,0,0,4,0,1,20,0
+319,Liz Kim,Samoa,33,Urban Planner,"New York City, NY",Foa Foa,Yellow,0,No Merge,N/A,13,5,4,5,0,1,0,5,20,0
+320,Erik Cardona,Samoa,28,Bartender,"Los Angeles, CA",Galu,Purple,0,Aiga,Blue,12,2,1,10,0,5,0,2,20,0
+321,Kelly Sharbaugh,Samoa,25,Hairstylist,"San Diego, CA",Galu,Purple,0,Aiga,Blue,11,3,2,4,0,5,0,3,20,0
+322,Laura Morett,Samoa,39,Office Manager,"Salem, OR",Galu,Purple,0,Aiga,Blue,10,4,2,10,0,5,2,4,20,0
+323,John Fincher,Samoa,25,Rocket Scientist,"Santa Monica, CA",Galu,Purple,0,Aiga,Blue,9,6,3,7,0,5,1,5,20,0
+324,Dave Ball,Samoa,38,Fitness Instructor,"Los Angeles, CA",Galu,Purple,0,Aiga,Blue,8,7,3,8,0,5,0,6,20,0
+325,Monica Padilla,Samoa,24,Law Student,"San Diego, CA",Galu,Purple,0,Aiga,Blue,7,8,4,7,0,5,0,7,20,0
+326,Shambo Waters,Samoa,45,Saleswoman,"Renton, WA",Galu,Purple,0,Aiga,Blue,6,9,4,6,0,5,0,8,20,0
+327,Jaison Robinson,Samoa,28,Law Student,"Chicago, IL",Foa Foa,Yellow,0,Aiga,Blue,5,14,13,7,0,1,2,13,20,0
+328,Brett Clouser,Samoa,23,T-shirt Designer,"Los Angeles, CA",Galu,Purple,0,Aiga,Blue,4,11,6,3,0,5,3,10,20,0
+329,Mick Trimming,Samoa,33,Doctor,"Los Angeles, CA",Foa Foa,Yellow,0,Aiga,Blue,3,15,14,4,0,1,1,14,20,0
+330,Russell Hantz,Samoa,36,Oil Company Owner,"Dayton, TX",Foa Foa,Yellow,0,Aiga,Blue,2,15,15,9,7,1,1,14,20,2
+331,Natalie White,Samoa,26,Pharmaceutical Saleswoman,"Van Buren, AR",Foa Foa,Yellow,0,Aiga,Blue,1,14,14,8,0,1,0,14,20,0
+332,Sugar Kiper,Heroes vs. Villains,30,Returning Player,"Los Angeles, CA",Heroes,Blue,0,No Merge,N/A,20,1,0,9,0,0,0,1,20,0
+333,Stephenie LaGrossa,Heroes vs. Villains,29,Returning Player,"Philadelphia, PA",Heroes,Blue,0,No Merge,N/A,19,2,1,6,0,0,0,2,20,0
+334,Randy Bailey,Heroes vs. Villains,50,Returning Player,"Austin, TX",Villains,Red,0,No Merge,N/A,18,1,0,9,0,2,0,1,20,0
+335,Cirie Fields,Heroes vs. Villains,39,Returning Player,"Norwalk, CT",Heroes,Blue,0,No Merge,N/A,17,3,2,3,0,1,0,3,20,0
+336,Tom Westman,Heroes vs. Villains,45,Returning Player,"New York City, NY",Heroes,Blue,0,No Merge,N/A,16,4,2,8,3,1,0,4,20,1
+337,Tyson Apostol,Heroes vs. Villains,30,Returning Player,"Heber City, UT",Villains,Red,0,No Merge,N/A,15,2,1,3,0,4,0,2,20,0
+338,James Clement,Heroes vs. Villains,32,Returning Player,"Lafayette, LA",Heroes,Blue,0,No Merge,N/A,14,5,3,7,0,1,0,5,20,0
+339,Rob Mariano,Heroes vs. Villains,33,Returning Player,"Pensacola, FL",Villains,Red,0,No Merge,N/A,13,3,1,5,0,4,1,3,20,0
+340,Coach Wade,Heroes vs. Villains,37,Returning Player,"Susanville, CA",Villains,Red,0,No Merge,N/A,12,4,1,4,0,4,0,4,20,0
+341,Courtney Yates,Heroes vs. Villains,28,Returning Player,"New York City, NY",Villains,Red,0,No Merge,N/A,11,5,2,9,0,4,0,5,20,0
+342,J.T. Thomas,Heroes vs. Villains,25,Returning Player,"Mobile, AL",Heroes,Blue,0,Yin Yang,Black,10,6,5,5,0,4,0,6,20,0
+343,Amanda Kimmel,Heroes vs. Villains,25,Returning Player,"Los Angeles, CA",Heroes,Blue,0,Yin Yang,Black,9,7,4,10,0,4,0,7,20,0
+344,Candice Woodcock,Heroes vs. Villains,26,Returning Player,"Washington, DC",Heroes,Blue,0,Yin Yang,Black,8,8,5,5,0,4,1,8,20,0
+345,Danielle DiLorenzo,Heroes vs. Villains,28,Returning Player,"Los Angeles, CA",Villains,Red,0,Yin Yang,Black,7,9,7,4,0,4,1,9,20,0
+346,Rupert Boneham,Heroes vs. Villains,45,Returning Player,"Indianapolis, IN",Heroes,Blue,0,Yin Yang,Black,6,10,6,10,0,4,0,10,20,0
+347,Colby Donaldson,Heroes vs. Villains,35,Returning Player,"Los Angeles, CA",Heroes,Blue,0,Yin Yang,Black,5,11,6,7,0,4,0,11,20,0
+348,Jerri Manthey,Heroes vs. Villains,38,Returning Player,"Los Angeles, CA",Villains,Red,0,Yin Yang,Black,4,12,9,9,5,4,1,12,20,0
+349,Russell Hantz,Heroes vs. Villains,36,Returning Player,"Dayton, TX",Villains,Red,0,Yin Yang,Black,3,12,11,5,0,4,2,12,20,1
+350,Parvati Shallow,Heroes vs. Villains,26,Returning Player,"Los Angeles, CA",Villains,Red,0,Yin Yang,Black,2,12,10,8,4,4,3,12,20,3
+351,Sandra Diaz-Twine,Heroes vs. Villains,35,Returning Player,"Fayetteville, NC",Villains,Red,0,Yin Yang,Black,1,12,9,3,2,4,0,12,20,1
+352,Wendy DeSmidt-Kohlhoff,Nicaragua,48,Goat Rancher,"Fromberg, MT",Espada,Blue,0,No Merge,N/A,20,1,0,9,0,0,0,1,20,0
+353,Shannon Elkins,Nicaragua,30,Pest Control Company Owner,"Lafayette, LA",La Flor,Yellow,0,No Merge,N/A,19,1,0,7,0,1,0,1,20,0
+354,Jimmy Johnson,Nicaragua,66,Former NFL Coach,"Islamorada, FL",Espada,Blue,0,No Merge,N/A,18,2,1,8,0,1,0,2,20,0
+355,Jimmy Tarantino,Nicaragua,47,Commericial Fisherman,"Gloucester, MA",Espada,Blue,0,No Merge,N/A,17,3,2,5,0,1,0,3,20,0
+356,Tyrone Davis,Nicaragua,42,Fire Captain,"Inglewood, CA",Espada,Blue,1,No Merge,N/A,16,4,3,6,0,1,0,4,20,0
+357,Kelly Bruno,Nicaragua,26,Medical Student,"Durham, NC",La Flor,Yellow,1,No Merge,N/A,15,2,1,8,0,4,0,2,20,0
+358,Yve Rojas,Nicaragua,41,Homemaker,"Kansas City, MO",Espada,Blue,1,No Merge,N/A,14,5,3,7,0,1,0,5,20,0
+359,Jill Behm,Nicaragua,43,ER Doctor,"Erie, PA",Espada,Blue,1,No Merge,N/A,13,6,4,3,0,2,1,5,20,0
+360,Alina Wilson,Nicaragua,23,Art Student,"Downey, CA",La Flor,Yellow,1,Libertad,Red,12,4,2,10,0,4,0,4,20,0
+361,Marty Piombo,Nicaragua,48,Technology Executive,"Mill Valley, CA",Espada,Blue,1,Libertad,Red,11,7,4,15,0,2,0,7,20,0
+362,Brenda Lowe,Nicaragua,27,Paddleboard Company Owner,"Miami, FL",La Flor,Yellow,1,Libertad,Red,10,7,6,13,0,4,1,6,20,0
+363,NaOnka Mixon,Nicaragua,27,PE Teacher,"Los Angeles, CA",La Flor,Yellow,1,Libertad,Red,9,6,5,3,0,4,0,7,20,0
+364,Kelly Shinn,Nicaragua,20,Nursing Student,"Mesa, AZ",La Flor,Yellow,1,Libertad,Red,8,7,6,0,0,4,0,7,20,0
+365,Benry Henry,Nicaragua,23,Club Promoter,"Los Angeles, CA",La Flor,Yellow,1,Libertad,Red,7,7,5,5,0,4,0,8,20,0
+366,Jane Bright,Nicaragua,56,Dog Trainer,"Jackson Springs, NC",Espada,Blue,1,Libertad,Red,6,11,5,11,0,2,2,11,20,0
+367,Dan Lembo,Nicaragua,63,Real Estate Executive,"Water Mill, NY",Espada,Blue,1,Libertad,Red,5,11,8,9,0,4,2,12,20,0
+368,Holly Hoffman,Nicaragua,44,Swim Coach,"Eureka, SD",Espada,Blue,1,Libertad,Red,4,12,10,4,0,2,1,13,20,0
+369,Sash Lenahan,Nicaragua,30,Real Estate Broker,"New York City, NY",La Flor,Yellow,1,Libertad,Red,3,11,10,2,1,4,1,12,20,1
+370,Chase Rice,Nicaragua,24,Professional Racecar Jackman,"Fairview, NC",La Flor,Yellow,1,Libertad,Red,2,10,10,1,0,4,0,11,20,1
+371,Fabio Birza,Nicaragua,21,Student,"Venice, CA",La Flor,Yellow,1,Libertad,Red,1,11,7,2,0,4,4,12,20,0
+372,Francesca Hogi,Redemption Island,36,Attorney,"Washington, DC",Ometepe,Orange,0,No Merge,N/A,18,1,0,4,0,0,0,1,18,0
+373,Russell Hantz,Redemption Island,37,Returning Player,"Dayton, TX",Zapatera,Purple,0,No Merge,N/A,17,1,0,8,0,2,0,1,18,0
+374,Kristina Kell,Redemption Island,45,Law Student,"Malibu, CA",Ometepe,Orange,0,No Merge,N/A,16,3,0,9,2,1,0,3,18,1
+375,Krista Klumpp,Redemption Island,25,Pharmaceutical Representative,"Columbia, SC",Zapatera,Purple,0,No Merge,N/A,15,3,0,6,0,3,0,2,18,0
+376,Stephanie Valencia,Redemption Island,25,Waitress,"Long Beach, CA",Zapatera,Purple,0,No Merge,N/A,14,3,0,8,0,3,0,3,18,0
+377,Sarita White,Redemption Island,35,Visual Effects Producer,"Santa Monica, CA",Zapatera,Purple,0,No Merge,N/A,13,5,3,6,0,3,0,4,18,0
+378,David Murphy,Redemption Island,31,Defense Attorney,"West Hollywood, CA",Zapatera,Purple,0,Murlonio,Black,12,8,3,8,0,3,0,7,18,0
+379,Julie Wolfe,Redemption Island,50,Firefighter,"Oceanside, CA",Zapatera,Purple,0,Murlonio,Black,11,9,4,6,0,3,0,8,18,0
+380,Steve Wright,Redemption Island,51,Ex-NFL Player,"Huntington Beach, CA",Zapatera,Purple,0,Murlonio,Black,10,11,5,9,0,3,0,10,18,0
+381,Ralph Kiser,Redemption Island,44,Farmer,"Lebanon, VA",Zapatera,Purple,0,Murlonio,Black,9,9,3,10,0,3,0,9,18,1
+382,Grant Mattos,Redemption Island,29,Ex-NFL Player,"West Hollywood, CA",Ometepe,Orange,0,Murlonio,Black,8,11,9,10,0,4,2,11,18,0
+383,Matt Elrod,Redemption Island,21,Pre-Med Student,"Nashville, TN",Ometepe,Orange,0,Murlonio,Black,7,3,1,10,0,0,0,3,18,0
+384,Mike Chiesl,Redemption Island,30,Iraq War Veteran,"Del Mar, CA",Zapatera,Purple,0,Murlonio,Black,6,7,5,6,0,3,0,6,18,0
+385,Andrea Boehlke,Redemption Island,21,Student,"Random Lake, WI",Ometepe,Orange,0,Murlonio,Black,5,11,7,9,0,4,1,11,18,0
+386,Ashley Underwood,Redemption Island,25,Nurse,"Benton, ME",Ometepe,Orange,0,Murlonio,Black,4,13,11,3,0,4,2,13,18,0
+387,Natalie Tenerelli,Redemption Island,19,Professional Dancer,"Acton, CA",Ometepe,Orange,0,Murlonio,Black,3,13,12,1,0,4,1,13,18,0
+388,Phillip Sheppard,Redemption Island,52,Former Federal Agent,"Santa Monica, CA",Ometepe,Orange,0,Murlonio,Black,2,13,12,17,0,4,0,13,18,0
+389,Rob Mariano,Redemption Island,34,Returning Player,"Pensacola, FL",Ometepe,Orange,0,Murlonio,Black,1,13,12,7,1,4,4,13,18,1
+390,Semhar Tadesse,South Pacific,24,Spoken Word Artist,"Los Angeles, CA",Savaii,Red,0,No Merge,N/A,18,1,0,8,0,0,0,1,18,0
+391,Mark Caruso,South Pacific,47,Retired NYPD Detective,"Forest Hills, NY",Savaii,Red,0,No Merge,N/A,17,2,1,6,0,1,0,2,18,0
+392,Stacey Powell,South Pacific,43,Mortician,"Grand Prairie, TX",Upolu,Blue,0,No Merge,N/A,16,2,0,10,0,1,0,2,18,0
+393,Elyse Umemoto,South Pacific,27,Dance Team Manager,"Las Vegas, NV",Savaii,Red,0,No Merge,N/A,15,3,2,3,0,2,0,3,18,0
+394,Mikayla Wingle,South Pacific,21,Lingerie Football Player,"Tampa, FL",Upolu,Blue,0,No Merge,N/A,14,3,2,4,0,3,0,3,18,0
+395,Christine Shields Markoski,South Pacific,29,Teacher,"Merrick, NY",Upolu,Blue,0,No Merge,N/A,13,1,0,4,0,1,0,1,18,0
+396,Jim Rice,South Pacific,35,Medical Marijuana Dispenser,"Denver, CO",Savaii,Red,0,Te Tuna,Yellow,12,8,3,8,0,3,1,7,18,0
+397,Keith Tollefson,South Pacific,25,Water Treatment Technician,"Edina, MN",Savaii,Red,0,Te Tuna,Yellow,11,5,3,12,0,3,0,5,18,0
+398,Dawn Meehan,South Pacific,40,English Professor,"South Jordan, UT",Savaii,Red,0,Te Tuna,Yellow,10,9,5,9,0,3,1,8,18,0
+399,Whitney Duncan,South Pacific,26,Country Music Singer,"Nashville, TN",Savaii,Red,0,Te Tuna,Yellow,9,10,4,7,0,3,1,9,18,0
+400,John Cochran,South Pacific,24,Harvard Law Student,"Washington, DC",Savaii,Red,0,Te Tuna,Yellow,8,11,9,13,0,3,0,10,18,0
+401,Edna Ma,South Pacific,35,Anesthesiologist,"Los Angeles, CA",Upolu,Blue,0,Te Tuna,Yellow,7,11,8,15,0,4,0,10,18,0
+402,Brandon Hantz,South Pacific,19,Oil Tanker Crewman,"Katy, TX",Upolu,Blue,0,Te Tuna,Yellow,6,12,11,4,0,4,0,11,18,0
+403,Rick Nelson,South Pacific,51,Rancher,"Aurora, UT",Upolu,Blue,0,Te Tuna,Yellow,5,12,10,15,0,4,0,12,18,0
+404,Ozzy Lusth,South Pacific,29,Returning Player,"Venice, CA",Savaii,Red,0,Te Tuna,Yellow,4,8,2,17,0,3,2,7,18,1
+405,Albert Destrade,South Pacific,26,Baseball/Dating Coach,"Plantation, FL",Upolu,Blue,0,Te Tuna,Yellow,3,14,12,1,0,4,2,13,18,0
+406,Coach Wade,South Pacific,39,Returning Player,"Susanville, CA",Upolu,Blue,0,Te Tuna,Yellow,2,14,14,0,0,4,1,13,18,0
+407,Sophie Clarke,South Pacific,21,Medical Student,"Willsboro, NY",Upolu,Blue,0,Te Tuna,Yellow,1,14,12,5,0,4,3,13,18,0
+408,Kourtney Moon,One World,29,Motorcycle Repairwoman,"Austin, TX",Salani,Blue,0,No Merge,N/A,18,0,0,0,0,0,0,0,18,0
+409,Nina Acosta,One World,51,Retired LAPD Officer,"Clovis, CA",Salani,Blue,0,No Merge,N/A,17,1,0,6,0,0,0,1,18,0
+410,Matt Quinlan,One World,33,Attorney,"San Francisco, CA",Manono,Orange,0,No Merge,N/A,16,1,0,7,0,2,0,1,18,0
+411,Bill Posley,One World,27,Stand-Up Comedian,"Venice, CA",Manono,Orange,0,No Merge,N/A,15,2,1,8,0,2,0,2,18,0
+412,Monica Culpepper,One World,41,Homemaker,"Tampa, FL",Salani,Blue,1,No Merge,N/A,14,2,0,5,0,2,0,2,18,0
+413,Colton Cumbie,One World,20,Student,"Monroeville, AL",Manono,Orange,1,No Merge,N/A,13,3,3,1,0,2,0,3,18,0
+414,Jonas Otsuji,One World,37,Sushi Chef,"Lehi, UT",Manono,Orange,1,Tikiano,Black,12,4,3,10,0,2,0,4,18,0
+415,Micheal Jefferson,One World,29,Banker,"Seattle, WA",Manono,Orange,1,Tikiano,Black,11,4,2,9,0,3,0,4,18,0
+416,Jay Byars,One World,24,Model,"Gaffney, SC",Manono,Orange,1,Tikiano,Black,10,5,4,5,0,3,1,5,18,0
+417,Leif Manson,One World,27,Phlebotomist,"San Diego, CA",Manono,Orange,1,Tikiano,Black,9,7,4,5,0,2,0,7,18,0
+418,Troyzan Robertson,One World,50,Swimsuit Photographer,"Miami, FL",Manono,Orange,1,Tikiano,Black,8,7,4,6,2,3,2,7,18,1
+419,Kat Edorsson,One World,22,Timeshare Representative,"Orlando, FL",Salani,Blue,1,Tikiano,Black,7,7,5,7,0,4,0,7,18,0
+420,Tarzan Smith,One World,63,Plastic Surgeon,"Houston, TX",Manono,Orange,1,Tikiano,Black,6,10,7,12,0,2,1,10,18,0
+421,Alicia Rosa,One World,24,Special Education Teacher,"Chicago, IL",Salani,Blue,1,Tikiano,Black,5,10,7,5,0,3,1,10,18,0
+422,Christina Cha,One World,28,Career Consultant,"West Hollywood, CA",Salani,Blue,1,Tikiano,Black,4,11,5,9,0,3,0,11,18,0
+423,Chelsea Meissner,One World,26,Medical Saleswoman,"Charleston, SC",Salani,Blue,1,Tikiano,Black,3,10,9,4,0,4,1,10,18,0
+424,Sabrina Thompson,One World,33,High School Teacher,"Brooklyn, NY",Salani,Blue,1,Tikiano,Black,2,10,9,2,0,4,0,10,18,0
+425,Kim Spradlin,One World,28,Bridal Shop Owner,"San Antonio, TX",Salani,Blue,1,Tikiano,Black,1,10,9,3,0,4,4,10,18,0
+426,Zane Knight,Philippines,28,Tire Repairman,"Danville, VA",Matsing,Blue,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,0
+427,Roxy Morris,Philippines,27,Seminary Student,"Brooklyn, NY",Matsing,Blue,0,No Merge,N/A,17,2,1,4,0,0,0,2,18,0
+428,Angie Layton,Philippines,20,Student,"Provo, UT",Matsing,Blue,0,No Merge,N/A,16,3,2,4,0,0,0,3,18,0
+429,Russell Swan,Philippines,45,Returning Player,"Glenside, PA",Matsing,Blue,0,No Merge,N/A,15,4,3,4,0,0,0,4,18,0
+430,Dana Lambert,Philippines,32,Cosmetologist,"Winston-Salem, NC",Kalabaw,Red,1,No Merge,N/A,14,0,0,0,0,4,0,0,18,0
+431,Sarah Dawson,Philippines,28,Insurance Saleswoman,"Silver Spring, MD",Kalabaw,Red,1,No Merge,N/A,13,1,0,5,0,4,0,1,18,0
+432,Katie Hanson,Philippines,22,Former Miss Delaware,"Newark, DE",Kalabaw,Red,1,No Merge,N/A,12,2,1,4,0,4,0,2,18,0
+433,RC Saint-Amour,Philippines,26,Investment Banker,"New York City, NY",Tandang,Yellow,1,Dangrayne,Black,11,1,0,4,0,6,0,1,18,0
+434,Jeff Kent,Philippines,44,Retired MLB Player,"Austin, TX",Kalabaw,Red,1,Dangrayne,Black,10,4,3,5,0,4,0,4,18,0
+435,Artis Silvester,Philippines,52,Computer Engineer,"Terrytown, LA",Tandang,Yellow,1,Dangrayne,Black,9,3,2,5,0,6,0,3,18,0
+436,Pete Yurkowski,Philippines,24,Engineering Graduate,"Holmdel, NJ",Tandang,Yellow,1,Dangrayne,Black,8,4,2,9,0,6,0,4,18,0
+437,Jonathan Penner,Philippines,50,Returning Player,"Los Angeles, CA",Kalabaw,Red,1,Dangrayne,Black,7,7,4,14,5,4,1,7,18,1
+438,Carter Williams,Philippines,24,Track Coach,"Shawnee, KS",Kalabaw,Red,1,Dangrayne,Black,6,8,5,5,0,4,2,8,18,0
+439,Abi-Maria Gomes,Philippines,32,Business Student,"Los Angeles, CA",Tandang,Yellow,1,Dangrayne,Black,5,7,2,9,3,6,1,7,18,0
+440,Malcolm Freberg,Philippines,24,Bartender,"Hermosa Beach, CA",Matsing,Blue,1,Dangrayne,Black,4,12,9,6,0,2,3,12,18,0
+441,Lisa Whelchel,Philippines,48,Former TV Teen Star,"Dallas, TX",Tandang,Yellow,1,Dangrayne,Black,3,8,5,0,0,6,0,8,18,0
+442,Micheal Skupin,Philippines,50,Returning Player,"White Lake, MI",Tandang,Yellow,1,Dangrayne,Black,2,8,6,0,0,6,2,8,18,0
+443,Denise Stapley,Philippines,41,Sex Therapist,"Cedar Rapids, IA",Matsing,Blue,1,Dangrayne,Black,1,14,11,6,0,0,1,14,18,0
+444,Francesca Hogi,Caramoan,38,Returning Player,"Brooklyn, NY",Bikal,Purple,0,No Merge,N/A,20,1,0,6,0,0,0,1,20,0
+445,Allie Pohevitz,Caramoan,24,Bartender,"Oceanside, NY",Gota,Orange,0,No Merge,N/A,19,1,0,6,0,1,0,1,20,0
+446,Hope Driskill,Caramoan,22,Pre-Law Student,"Jefferson City, MO",Gota,Orange,0,No Merge,N/A,18,2,0,8,0,1,0,2,20,0
+447,Shamar Thomas,Caramoan,26,Iraq War Veteran,"Brooklyn, NY",Gota,Orange,0,No Merge,N/A,17,2,1,8,0,1,0,2,20,0
+448,Laura Alexander,Caramoan,22,Administrative Officier,"Washington, DC",Gota,Orange,0,No Merge,N/A,16,4,3,6,0,1,0,3,20,0
+449,Brandon Hantz,Caramoan,20,Returning Player,"Katy, TX",Bikal,Purple,0,No Merge,N/A,15,2,0,8,0,3,0,2,20,0
+450,Matt Bischoff,Caramoan,38,BMX Bike Salesman,"Cincinatti, OH",Gota,Orange,1,No Merge,N/A,14,5,3,4,0,2,0,4,20,0
+451,Julia Landauer,Caramoan,20,Racecar Driver,"Stanford, CA",Gota,Orange,1,No Merge,N/A,13,6,4,9,0,2,0,5,20,0
+452,Corinne Kaplan,Caramoan,33,Returning Player,"Los Angeles, CA",Bikal,Purple,1,Enil Edam,Green,12,6,5,7,0,3,0,5,20,0
+453,Micheal Snow,Caramoan,43,Event Planner,"New York City, NY",Gota,Orange,1,Enil Edam,Green,11,8,4,10,0,2,0,7,20,0
+454,Phillip Sheppard,Caramoan,54,Returning Player,"Santa Monica, CA",Bikal,Purple,1,Enil Edam,Green,10,8,6,5,0,3,0,7,20,0
+455,Malcolm Freberg,Caramoan,25,Returning Player,"Hermosa Beach, CA",Bikal,Purple,1,Enil Edam,Green,9,6,3,11,2,5,0,6,20,2
+456,Reynold Toepfer,Caramoan,29,Real Estate Salesman,"San Francisco, CA",Gota,Orange,1,Enil Edam,Green,8,9,2,9,1,4,1,8,20,1
+457,Andrea Boehlke,Caramoan,23,Returning Player,"New York City, NY",Bikal,Purple,1,Enil Edam,Green,7,8,6,13,0,5,1,8,20,0
+458,Brenda Lowe,Caramoan,29,Returning Player,"Miami, FL",Bikal,Purple,1,Enil Edam,Green,6,10,6,5,0,5,1,9,20,0
+459,Erik Reichenbach,Caramoan,26,Returning Player,"Santa Clarita, CA",Bikal,Purple,1,Enil Edam,Green,5,10,7,2,0,5,1,9,20,0
+460,Eddie Fox,Caramoan,23,Fireman/EMT,"East Brunswick, NJ",Gota,Orange,1,Enil Edam,Green,4,12,3,16,4,4,0,11,20,1
+461,Dawn Meehan,Caramoan,41,Returning Player,"South Jordan, UT",Bikal,Purple,1,Enil Edam,Green,3,14,11,2,0,3,1,12,20,0
+462,Sherri Biethman,Caramoan,40,Fast Food Franchisee,"Boise, ID",Gota,Orange,1,Enil Edam,Green,2,13,11,6,0,4,0,11,20,0
+463,John Cochran,Caramoan,25,Returning Player,"Washington, DC",Bikal,Purple,1,Enil Edam,Green,1,14,11,0,0,3,3,12,20,0
+464,Rupert Boneham,Blood vs. Water,49,Laura B.'s Husband,"Indianapolis, IN",No Tribe,N/A,0,No Merge,N/A,20,0,0,0,0,0,0,0,20,0
+465,Colton Cumbie,Blood vs. Water,22,Caleb's Fiancé,"Collinsville, AL",Galang,Yellow,0,No Merge,N/A,19,0,0,0,0,2,0,0,20,0
+466,Rachel Foulger,Blood vs. Water,33,Tyson's Girlfriend,"Provo, UT",Tadhana,Red,0,No Merge,N/A,18,2,1,5,0,0,0,2,20,0
+467,Marissa Peterson,Blood vs. Water,21,Gervase's Niece,"Chapel Hill, NC",Tadhana,Red,0,No Merge,N/A,17,1,0,8,0,0,0,1,20,0
+468,Candice Cody,Blood vs. Water,30,John's Wife,"Washington, DC",No Tribe,N/A,0,No Merge,N/A,16,0,0,0,0,0,0,0,20,0
+469,Brad Culpepper,Blood vs. Water,44,Monica's Husband,"Tampa, FL",Tadhana,Red,0,No Merge,N/A,15,4,3,6,0,0,0,4,20,0
+470,Kat Edorsson,Blood vs. Water,23,Hayden's Girlfriend,"Orlando, FL",Galang,Yellow,1,No Merge,N/A,14,2,1,5,0,4,0,2,20,0
+471,John Cody,Blood vs. Water,30,Candice's Husband,"Washington, DC",Tadhana,Red,0,No Merge,N/A,13,3,2,8,0,0,0,3,20,0
+472,Laura Boneham,Blood vs. Water,44,Rupert's Wife,"Indianapolis, IN",Galang,Yellow,1,No Merge,N/A,12,3,2,5,0,4,0,3,20,0
+473,Aras Baskauskas,Blood vs. Water,31,Vytas' Brother,"Santa Monica, CA",Galang,Yellow,1,Kasama,Purple,11,2,1,7,0,6,0,2,20,0
+474,Vytas Baskauskas,Blood vs. Water,33,Aras' Brother,"Santa Monica, CA",Tadhana,Red,1,Kasama,Purple,10,9,6,10,0,1,1,8,20,0
+475,Caleb Bankston,Blood vs. Water,26,Colton's Fiancé,"Collinsville, AL",Tadhana,Red,1,Kasama,Purple,9,10,9,4,0,3,0,9,20,0
+476,Katie Collins,Blood vs. Water,25,Tina's Daughter,"New York City, NY",Tadhana,Red,1,Kasama,Purple,8,14,8,3,0,1,1,12,20,0
+477,Hayden Moss,Blood vs. Water,26,Kat's Boyfriend,"Springtown, TX",Tadhana,Red,1,Kasama,Purple,7,12,7,8,0,3,0,11,20,0
+478,Laura Morett,Blood vs. Water,43,Ciera's Mother,"Salem, OR",Galang,Yellow,0,Kasama,Purple,6,5,3,19,0,4,0,5,20,0
+479,Ciera Eastin,Blood vs. Water,24,Laura M.'s Daughter,"Salem, OR",Tadhana,Red,1,Kasama,Purple,5,13,7,14,0,3,1,12,20,0
+480,Tina Wesson,Blood vs. Water,52,Katie's Mother,"Robbinsville, NC",Galang,Yellow,1,Kasama,Purple,4,8,4,10,0,4,0,8,20,0
+481,Gervase Peterson,Blood vs. Water,43,Marissa's Uncle,"Philadelphia, PA",Galang,Yellow,1,Kasama,Purple,3,11,9,6,2,6,1,10,20,0
+482,Monica Culpepper,Blood vs. Water,42,Brad's Wife,"Tampa, FL",Galang,Yellow,1,Kasama,Purple,2,12,11,5,4,4,3,12,20,0
+483,Tyson Apostol,Blood vs. Water,33,Rachel's Boyfriend,"Provo, UT",Galang,Yellow,1,Kasama,Purple,1,11,9,2,0,6,2,11,20,2
+484,David Samson,Cagayan,45,Miami Marlins President,"Plantation, FL",Luzon,Green,0,No Merge,N/A,18,1,0,4,0,0,0,1,18,0
+485,Garrett Adelstein,Cagayan,27,Professional Poker Player,"Santa Monica, CA",Luzon,Green,0,No Merge,N/A,17,2,1,3,0,0,0,2,18,0
+486,Brice Johnston,Cagayan,27,Social Worker,"Philadelphia, PA",Solana,Purple,0,No Merge,N/A,16,1,0,5,0,2,0,1,18,0
+487,J'Tia Taylor,Cagayan,31,Nuclear Engineer,"Chicago, IL",Luzon,Green,0,No Merge,N/A,15,3,2,7,0,1,0,3,18,0
+488,Cliff Robinson,Cagayan,46,Former NBA All-Star,"Buffalo, NY",Aparri,Orange,1,No Merge,N/A,14,1,0,4,0,4,0,1,18,0
+489,Lindsey Ogle,Cagayan,29,Hairstylist,"Kokomo, IN",Aparri,Orange,1,No Merge,N/A,13,1,0,0,0,4,0,1,18,0
+490,Alexis Maxwell,Cagayan,21,Student,"Addison, IL",Solana,Purple,1,No Merge,N/A,12,2,1,8,0,4,0,2,18,0
+491,Sarah Lacina,Cagayan,29,Police Officer,"Cedar Rapids, IA",Aparri,Orange,1,Solarrion,Black,11,2,1,6,0,5,0,2,18,0
+492,Morgan McLeod,Cagayan,21,Ex-NFL Cheerleader,"San Jose, CA",Solana,Purple,1,Solarrion,Black,10,4,1,8,0,4,0,4,18,0
+493,LJ McKanas,Cagayan,34,Horse Trainer,"Boston, MA",Solana,Purple,1,Solarrion,Black,9,6,4,8,0,4,0,5,18,1
+494,Jeremiah Wood,Cagayan,34,Male Model,"Dobson, NC",Solana,Purple,1,Solarrion,Black,8,7,3,9,0,4,0,6,18,0
+495,Jefra Bland,Cagayan,23,Miss Kentucky Teen USA,"Campbellsville, KY",Solana,Purple,1,Solarrion,Black,7,8,6,9,0,4,0,7,18,0
+496,Tasha Fox,Cagayan,36,Accountant,"St. Louis, MO",Luzon,Green,1,Solarrion,Black,6,10,6,4,0,2,3,10,18,0
+497,Trish Hegarty,Cagayan,47,Pilates Trainer,"Needham, MA",Aparri,Orange,1,Solarrion,Black,5,8,5,5,0,5,0,8,18,0
+498,Spencer Bledsoe,Cagayan,21,Economics Student,"Chicago, IL",Luzon,Green,1,Solarrion,Black,4,12,6,8,0,2,3,12,18,1
+499,Kass McQuillen,Cagayan,41,Attorney,"Tehachapi, CA",Luzon,Green,1,Solarrion,Black,3,12,9,2,0,2,1,13,18,0
+500,Woo Hwang,Cagayan,29,Martial Arts Instructor,"Newport Beach, CA",Aparri,Orange,1,Solarrion,Black,2,10,9,4,0,5,2,10,18,0
+501,Tony Vlachos,Cagayan,39,Police Officer,"Jersey City, NJ",Aparri,Orange,1,Solarrion,Black,1,9,9,5,0,5,0,10,18,2
+502,Nadiya Anderson,San Juan del Sur,28,Natalie's Twin Sister,"Edgewater, NJ",Coyopa,Orange,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,0
+503,Val Collins,San Juan del Sur,35,Jeremy's Wife,"Foxboro, MA",Coyopa,Orange,0,No Merge,N/A,17,2,0,9,0,0,0,2,18,0
+504,John Rocker,San Juan del Sur,39,Julie's Boyfriend,"Atlanta, GA",Coyopa,Orange,0,No Merge,N/A,16,4,2,5,0,0,0,3,18,0
+505,Drew Christy,San Juan del Sur,25,Alec's Brother,"Winter Park, FL",Hunahpu,Blue,0,No Merge,N/A,15,1,0,5,0,3,0,1,18,0
+506,Kelley Wentworth,San Juan del Sur,27,Dale's Daughter,"Seattle, WA",Hunahpu,Blue,1,No Merge,N/A,14,2,1,4,0,3,0,2,18,0
+507,Dale Wentworth,San Juan del Sur,55,Kelley's Father,"Ephrata, WA",Coyopa,Orange,1,No Merge,N/A,13,6,3,8,0,1,0,5,18,0
+508,Julie McGee,San Juan del Sur,34,John's Girlfriend,"Atlanta, GA",Hunahpu,Blue,1,Huyopa,Green,12,1,1,2,0,5,0,1,18,0
+509,Josh Canfield,San Juan del Sur,32,Reed's Boyfriend,"New York City, NY",Coyopa,Orange,1,Huyopa,Green,11,5,4,6,0,3,0,4,18,0
+510,Jeremy Collins,San Juan del Sur,36,Val's Husband,"Foxboro, MA",Hunahpu,Blue,1,Huyopa,Green,10,3,2,5,0,5,1,3,18,0
+511,Wes Nale,San Juan del Sur,23,Keith's Son,"Shreveport, LA",Coyopa,Orange,1,Huyopa,Green,9,7,4,2,0,3,0,6,18,0
+512,Reed Kelly,San Juan del Sur,31,Josh's Boyfriend,"New York City, NY",Hunahpu,Blue,1,Huyopa,Green,8,5,1,10,0,5,1,5,18,0
+513,Alec Christy,San Juan del Sur,22,Drew's Brother,"Winter Park, FL",Coyopa,Orange,1,Huyopa,Green,7,9,4,4,0,3,0,8,18,0
+514,Jon Misch,San Juan del Sur,26,Jaclyn's Boyfriend,"Waterford, MI",Hunahpu,Blue,1,Huyopa,Green,6,9,5,8,4,3,1,9,18,1
+515,Baylor Wilson,San Juan del Sur,20,Missy's Daughter,"Nashville, TN",Coyopa,Orange,1,Huyopa,Green,5,13,9,17,0,1,1,12,18,0
+516,Keith Nale,San Juan del Sur,53,Wes's Father,"Shreveport, LA",Hunahpu,Blue,1,Huyopa,Green,4,11,4,16,3,3,3,11,18,1
+517,Missy Payne,San Juan del Sur,46,Baylor's Mother,"Dallas, TX",Hunahpu,Blue,1,Huyopa,Green,3,12,7,3,0,3,0,11,18,0
+518,Jaclyn Schultz,San Juan del Sur,25,Jon's Girlfriend,"Las Vegas, NV",Coyopa,Orange,1,Huyopa,Green,2,14,9,6,3,1,1,13,18,0
+519,Natalie Anderson ,San Juan del Sur,28,Nadiya's Twin Sister,"Edgewater, NJ",Hunahpu,Blue,1,Huyopa,Green,1,10,8,0,0,5,1,9,18,1
+520,So Kim,Worlds Apart,31,Retail Buyer,"Long Beach, CA",Masaya,Yellow,0,No Merge,N/A,18,1,0,4,0,0,0,1,18,0
+521,Vince Sly,Worlds Apart,32,Coconut Vendor,"Santa Monica, CA",Nagarote,Red,0,No Merge,N/A,17,1,0,3,0,1,0,1,18,0
+522,Nina Poersch,Worlds Apart,51,Hearing Advocate,"Palmdale, CA",Nagarote,Red,0,No Merge,N/A,16,2,0,4,0,1,0,2,18,0
+523,Lindsey Cascaddan,Worlds Apart,24,Hairdresser,"College Park, FL",Escameca,Blue,0,No Merge,N/A,15,1,0,5,0,3,0,1,18,0
+524,Max Dawson,Worlds Apart,37,Media Consultant,"Topanga, CA",Masaya,Yellow,1,No Merge,N/A,14,2,1,5,0,3,0,2,18,0
+525,Joaquin Souberbielle,Worlds Apart,27,Marketing Director,"Valley Stream, NY",Masaya,Yellow,1,No Merge,N/A,13,2,0,4,0,4,0,2,18,0
+526,Kelly Remington,Worlds Apart,44,State Trooper,"Grand Island, NY",Escameca,Blue,1,Merica,Black,12,4,2,4,0,4,0,3,18,0
+527,Hali Ford,Worlds Apart,25,Law Student,"San Francisco, CA",Nagarote,Red,1,Merica,Black,11,5,3,8,0,3,0,5,18,0
+528,Joe Anglim,Worlds Apart,25,Jewelry Designer,"Scottsdale, AZ",Nagarote,Red,1,Merica,Black,10,6,3,8,0,3,2,6,18,0
+529,Jenn Brown,Worlds Apart,22,Sailing Instructor,"Long Beach, CA",Nagarote,Red,1,Merica,Black,9,7,4,18,7,3,0,7,18,1
+530,Shirin Oskooi,Worlds Apart,31,Yahoo Executive,"San Francisco, CA",Masaya,Yellow,1,Merica,Black,8,7,4,7,0,4,0,7,18,0
+531,Tyler Fredrickson,Worlds Apart,33,Ex-Talent Agent Assistant,"Los Angeles, CA",Masaya,Yellow,1,Merica,Black,7,8,3,5,0,4,1,8,18,0
+532,Dan Foley,Worlds Apart,47,Postal Worker,"Gorham, ME",Escameca,Blue,1,Merica,Black,6,11,6,9,0,4,0,9,18,1
+533,Sierra Dawn-Thomas,Worlds Apart,27,Barrel Racer,"Roy, UT",Escameca,Blue,1,Merica,Black,5,10,5,6,0,4,0,10,18,0
+534,Rodney Lavoie Jr.,Worlds Apart,24,General Contractor,"Boston, MA",Escameca,Blue,1,Merica,Black,4,11,4,5,0,4,0,11,18,0
+535,Carolyn Rivera,Worlds Apart,52,Corporate Executive,"Tampa, FL",Masaya,Yellow,1,Merica,Black,3,11,9,10,5,4,2,11,18,1
+536,Will Sims II,Worlds Apart,41,YouTube Sensation,"Sherman Oaks, CA",Nagarote,Red,1,Merica,Black,2,12,6,4,0,3,0,12,18,0
+537,Mike Holloway,Worlds Apart,38,Oil Driller,"North Richland Hills, TX",Escameca,Blue,1,Merica,Black,1,12,10,4,4,4,5,11,18,1
+538,Vytas Baskauskas,Cambodia,35,Returning Player,"Santa Monica, CA",Ta Keo,Green,0,No Merge,N/A,20,1,0,6,0,0,0,1,20,0
+539,Shirin Oskooi,Cambodia,32,Returning Player,"San Francisco, CA",Ta Keo,Green,0,No Merge,N/A,19,2,1,5,0,0,0,2,20,0
+540,Peih-Gee Law,Cambodia,37,Returning Player,"San Francisco, CA",Ta Keo,Green,1,No Merge,N/A,18,3,2,4,0,0,0,3,20,0
+541,Jeff Varner,Cambodia,49,Returning Player,"Greensboro, NC",Ta Keo,Green,1,No Merge,N/A,17,4,3,4,0,0,0,4,20,0
+542,Monica Padilla,Cambodia,30,Returning Player,"Queens, NC",Bayon,Purple,1,No Merge,N/A,16,1,0,3,0,4,0,1,20,0
+543,Terry Deitz,Cambodia,55,Returning Player,"Simsbury, CT",Ta Keo,Green,1,No Merge,N/A,15,2,0,0,0,3,0,2,20,0
+544,Woo Hwang,Cambodia,31,Returning Player,"Newport Beach, CA",Ta Keo,Green,2,No Merge,N/A,14,5,2,5,0,1,0,5,20,0
+545,Kass McQuillen,Cambodia,43,Returning Player,"Tehachapi, CA",Bayon,Purple,2,Orkun,Orange,13,2,1,6,0,5,0,2,20,0
+546,Andrew Savage,Cambodia,51,Returning Player,"San Jose, CA",Bayon,Purple,2,Orkun,Orange,12,5,3,4,0,3,0,5,20,0
+547,Kelly Wiglesworth,Cambodia,37,Returning Player,"Greensboro, NC",Ta Keo,Green,2,Orkun,Orange,11,7,1,8,0,2,0,7,20,0
+548,Ciera Eastin,Cambodia,26,Returning Player,"Salem, OR",Bayon,Purple,2,Orkun,Orange,10,5,3,10,0,5,0,5,20,0
+549,Stephen Fishbach,Cambodia,36,Returning Player,"New York City, NY",Bayon,Purple,2,Orkun,Orange,9,7,4,9,5,5,0,6,20,1
+550,Joe Anglim,Cambodia,26,Returning Player,"Scottsdale, AZ",Bayon,Purple,2,Orkun,Orange,8,5,0,8,0,6,4,6,20,0
+551,Abi-Maria Gomes,Cambodia,35,Returning Player,"Los Angeles, CA",Ta Keo,Green,2,Orkun,Orange,7,12,8,14,0,1,0,12,20,0
+552,Kimmi Kappenberg,Cambodia,42,Returning Player,"The Woodlands, TX",Bayon,Purple,2,Orkun,Orange,6,10,5,9,0,5,0,9,20,0
+553,Keith Nale,Cambodia,54,Returning Player,"Keithville, LA",Bayon,Purple,2,Orkun,Orange,5,11,3,4,0,6,1,9,20,0
+554,Kelley Wentworth,Cambodia,28,Returning Player,"Seattle, WA",Ta Keo,Green,2,Orkun,Orange,4,14,7,17,12,4,2,12,20,2
+555,Tasha Fox,Cambodia,38,Returning Player,"St. Louis, MO",Bayon,Purple,2,Orkun,Orange,3,13,8,8,0,4,0,12,20,0
+556,Spencer Bledsoe,Cambodia,22,Returning Player,"Chicago, IL",Ta Keo,Green,2,Orkun,Orange,2,16,11,11,0,2,3,14,20,0
+557,Jeremy Collins,Cambodia,37,Returning Player,"Foxboro, MA",Bayon,Purple,2,Orkun,Orange,1,13,9,3,3,5,1,11,20,2
+558,Darnell Hamilton,Kaôh Rōng,27,Postal Worker,"Chicago, IL",To Tang,Red,0,No Merge,N/A,18,1,0,7,0,0,0,1,18,0
+559,Jennifer Lanzetti,Kaôh Rōng,37,Contractor,"Salt Lake City, UT",To Tang,Red,0,No Merge,N/A,17,3,2,3,0,0,0,2,18,0
+560,Liz Markham,Kaôh Rōng,26,Quantitative Strategist,"New York City, NY",Chan Loh,Blue,0,No Merge,N/A,16,1,0,5,0,2,0,1,18,0
+561,Caleb Reynolds,Kaôh Rōng,27,Army Veteran,"Hopkinsville, KY",Gondol,Yellow,0,No Merge,N/A,15,0,0,0,0,3,0,0,18,0
+562,Alecia Holden,Kaôh Rōng,23,Real Estate Agent,"Dallas, TX",To Tang,Red,0,No Merge,N/A,14,3,2,8,0,1,0,3,18,0
+563,Anna Khait,Kaôh Rōng,26,Professional Poker Player,"Brooklyn, NY",Gondol,Yellow,1,No Merge,N/A,13,1,9,5,0,4,0,1,18,0
+564,Peter Baggenstos,Kaôh Rōng,34,ER Doctor,"Minneapolis, MN",Chan Loh,Blue,1,No Merge,N/A,12,3,1,7,0,3,0,3,18,0
+565,Neal Gottlieb,Kaôh Rōng,38,Ice Cream Entrepreneur,"Sausalito, CA",Chan Loh,Blue,1,Dara,Black,11,2,1,0,0,5,0,1,18,0
+566,Nick Maiorano,Kaôh Rōng,30,Personal Trainer,"Redondo Beach, CA",Gondol,Yellow,1,Dara,Black,10,1,0,6,0,6,1,1,18,0
+567,Debbie Wanner,Kaôh Rōng,49,Chemist,"Reading, PA",Chan Loh,Blue,1,Dara,Black,9,4,3,5,0,5,0,3,18,0
+568,Scot Pollard,Kaôh Rōng,40,Former NBA Champion,"Carmel, IN",To Tang,Red,1,Dara,Black,8,9,5,7,0,1,0,8,18,0
+569,Julia Sokolowski,Kaôh Rōng,18,College Student,"Boston, MA",Gondol,Yellow,1,Dara,Black,7,5,3,7,0,4,1,5,18,0
+570,Kyle Jason,Kaôh Rōng,30,Bounty Hunter,"Detroit, MI",To Tang,Red,1,Dara,Black,6,9,3,5,0,3,1,8,18,0
+571,Joe Del Campo,Kaôh Rōng,71,Former FBI Agent,"Vero Beach, FL",Chan Loh,Blue,1,Dara,Black,5,9,7,1,0,3,0,8,18,0
+572,Cydney Gillon,Kaôh Rōng,22,Bodybuilder,"Douglasville, GA",To Tang,Red,1,Dara,Black,4,10,8,5,0,3,1,9,18,0
+573,Tai Trang,Kaôh Rōng,51,Gardener,"San Francisco, CA",Gondol,Yellow,1,Dara,Black,3,9,5,4,0,4,1,8,18,1
+574,Aubry Bracco,Kaôh Rōng,29,Social Media Marketer,"Cambridge, MA",Chan Loh,Blue,1,Dara,Black,2,9,8,8,0,3,0,9,18,0
+575,Michele Fitzgerald,Kaôh Rōng,24,Bartender,"Freehold, NJ",Gondol,Yellow,1,Dara,Black,1,6,4,2,0,6,2,6,18,0
+576,Rachel Ako,Millenials vs. Gen X,37,Recruiting Director,"Los Angeles, CA",Takali,Purple,0,No Merge,N/A,20,1,0,5,0,0,0,1,20,0
+577,Mari Takahashi,Millenials vs. Gen X,31,Gamer,"Los Angeles, CA",Vanua,Orange,0,No Merge,N/A,19,1,0,7,0,1,0,1,20,0
+578,Paul Wachter,Millenials vs. Gen X,52,Boat Mechanic,"Sugarloaf Key, FL",Takali,Purple,0,No Merge,N/A,18,2,1,6,0,1,0,2,20,0
+579,Lucy Huang,Millenials vs. Gen X,42,Dietician,"Diamond Bar, CA",Takali,Purple,0,No Merge,N/A,17,3,1,2,0,1,0,3,20,0
+580,CeCe Taylor,Millenials vs. Gen X,39,Insurance Adjuster,"Granada Hills, CA",Takali,Purple,1,No Merge,N/A,16,4,2,11,0,1,0,4,20,0
+581,Figgy Figueroa,Millenials vs. Gen X,23,Bartender,"Nashville, TN",Vanua,Orange,1,No Merge,N/A,15,2,1,6,0,4,0,2,20,0
+582,Michaela Bradshaw,Millenials vs. Gen X,25,Vacation Club Saleswoman,"Fort Worth, TX",Vanua,Orange,1,No Merge,N/A,14,2,1,4,0,5,0,2,20,0
+583,Michelle Schubert,Millenials vs. Gen X,28,Missionary Recruiter,"Yakima, WA",Vanua,Orange,1,Vinaka,Black,13,3,2,10,0,5,0,3,20,0
+584,Taylor Stocker,Millenials vs. Gen X,24,Snowboard Instructor,"Post Falls, ID",Vanua,Orange,1,Vinaka,Black,12,4,1,7,0,5,0,4,20,0
+585,Chris Hammons,Millenials vs. Gen X,38,Trial Lawyer,"Moore, OK",Takali,Purple,1,Vinaka,Black,11,7,4,7,0,3,0,7,20,0
+586,Jessica Lewis,Millenials vs. Gen X,37,Assistant District Attorney,"Voorheesville, NY",Takali,Purple,1,Vinaka,Black,10,9,4,9,0,3,0,8,20,0
+587,Zeke Smith,Millenials vs. Gen X,28,Asset Manager,"Brooklyn, NY",Vanua,Orange,1,Vinaka,Black,9,7,4,14,0,5,0,7,20,0
+588,Will Wahl,Millenials vs. Gen X,18,High School Student,"Long Valley, NJ",Vanua,Orange,1,Vinaka,Black,8,9,4,6,0,5,1,8,20,0
+589,Sunday Burquest,Millenials vs. Gen X,45,Youth Pastor,"Otsego, MN",Takali,Purple,1,Vinaka,Black,7,12,5,5,0,3,0,11,20,0
+590,Jay Starrett,Millenials vs. Gen X,26,Real Estate Agent,"Fort Lauderdale, FL",Vanua,Orange,1,Vinaka,Black,6,11,3,10,1,5,2,10,20,1
+591,Bret LaBelle,Millenials vs. Gen X,42,Police Sergeant,"Dedhem, MA",Takali,Purple,1,Vinaka,Black,5,14,5,5,0,3,0,13,20,0
+592,David Wright,Millenials vs. Gen X,42,Television Writer,"Sherman Oaks, CA",Takali,Purple,1,Vinaka,Black,4,15,12,10,0,3,2,14,20,2
+593,Ken McNickle,Millenials vs. Gen X,33,Model,"Denver, CO",Takali,Purple,1,Vinaka,Black,3,15,12,3,1,3,4,14,20,1
+594,Hannah Shapiro,Millenials vs. Gen X,24,Barista,"West Hollywood, CA",Vanua,Orange,1,Vinaka,Black,2,12,9,13,4,5,0,12,20,0
+595,Adam Klein,Millenials vs. Gen X,25,Homeless Shelter Manager,"San Francisco, CA",Vanua,Orange,1,Vinaka,Black,1,13,9,6,0,5,1,12,20,2
+596,Ciera Eastin,Game Changers,27,Returning Player,"Salem, OR",Mana,Red,0,No Merge,N/A,20,1,0,9,0,0,0,1,20,0
+597,Tony Vlachos,Game Changers,42,Returning Player,"Jersey City, NJ",Mana,Red,0,No Merge,N/A,19,2,1,7,0,0,0,2,20,0
+598,Caleb Reynolds,Game Changers,28,Returning Player,"Hopkinsville, KY",Mana,Red,1,No Merge,N/A,18,3,2,5,0,0,0,3,20,0
+599,Malcolm Freberg,Game Changers,29,Returning Player,"Hermosa Beach, CA",Mana,Red,1,No Merge,N/A,17,3,2,5,0,1,0,3,20,0
+600,J.T. Thomas,Game Changers,31,Returning Player,"Mobile, AL",Nuku,Blue,1,No Merge,N/A,16,2,0,3,0,3,0,2,20,0
+601,Sandra Diaz-Twine,Game Changers,41,Returning Player,"Fayetteville, NC",Mana,Red,2,No Merge,N/A,15,5,3,5,0,1,0,5,20,0
+602,Jeff Varner,Game Changers,50,Returning Player,"High Point, NC",Mana,Red,2,No Merge,N/A,14,5,3,6,0,1,0,6,20,0
+603,Hali Ford,Game Changers,26,Returning Player,"Knoxville, TN",Mana,Red,2,Maku Maku,Yellow,13,5,4,8,0,3,0,5,20,0
+604,Ozzy Lusth,Game Changers,34,Returning Player,"Venice, CA",Nuku,Blue,2,Maku Maku,Yellow,12,4,3,7,0,5,0,4,20,0
+605,Debbie Wanner,Game Changers,50,Returning Player,"Reading, PA",Nuku,Blue,2,Maku Maku,Yellow,11,7,6,6,0,3,0,6,20,1
+606,Zeke Smith,Game Changers,28,Returning Player,"Brooklyn, NY",Nuku,Blue,2,Maku Maku,Yellow,10,6,3,11,0,5,0,6,20,0
+607,Sierra Dawn-Thomas,Game Changers,29,Returning Player,"Roy, UT",Nuku,Blue,2,Maku Maku,Yellow,9,7,4,15,6,5,0,7,20,0
+608,Andrea Boehlke,Game Changers,27,Returning Player,"New York City, NY",Nuku,Blue,2,Maku Maku,Yellow,8,8,5,14,0,5,2,8,20,0
+609,Michaela Bradshaw,Game Changers,25,Returning Player,"Fort Worth, TX",Mana,Red,2,Maku Maku,Yellow,7,11,7,1,0,3,0,11,20,0
+610,Cirie Fields,Game Changers,45,Returning Player,"Norwalk, CT",Nuku,Blue,2,Maku Maku,Yellow,6,8,4,0,0,7,0,8,20,0
+611,Aubry Bracco,Game Changers,30,Returning Player,"Cambridge, MA",Mana,Red,2,Maku Maku,Yellow,5,13,6,9,1,3,2,13,20,0
+612,Tai Trang,Game Changers,52,Returning Player,"San Francisco, CA",Nuku,Blue,2,Maku Maku,Yellow,4,13,9,12,2,3,1,14,20,3
+613,Troyzan Robertson,Game Changers,54,Returning Player,"Miami, FL",Mana,Red,2,Maku Maku,Yellow,3,12,8,2,0,5,1,12,20,1
+614,Brad Culpepper,Game Changers,47,Returning Player,"Tampa, FL",Nuku,Blue,2,Maku Maku,Yellow,2,12,8,2,0,5,5,12,20,0
+615,Sarah Lacina,Game Changers,31,Returning Player,"Marion, IA",Nuku,Blue,2,Maku Maku,Yellow,1,13,12,3,3,5,0,12,20,2
+616,Katrina Radke,Heroes vs. Healers vs. Hustlers,46,Olympian,"Excelsior, MN",Levu,Blue,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,0
+617,Simone Nguyen,Heroes vs. Healers vs. Hustlers,25,Diversity Advocate,"New York City, NY",Yawa,Red,0,No Merge,N/A,17,1,0,5,0,1,0,1,18,0
+618,Patrick Bolton,Heroes vs. Healers vs. Hustlers,25,Small Business Owner,"Auburn, AL",Yawa,Red,0,No Merge,N/A,16,2,1,5,0,1,0,2,18,0
+619,Alan Ball,Heroes vs. Healers vs. Hustlers,32,NFL Player,"Houston, TX",Levu,Blue,1,No Merge,N/A,15,2,1,2,0,2,0,2,18,0
+620,Roark Luskin,Heroes vs. Healers vs. Hustlers,27,Social Worker,"Santa Monica, CA",Soko,Yellow,1,No Merge,N/A,14,1,0,3,0,4,0,1,18,0
+621,Ali Elliot,Heroes vs. Healers vs. Hustlers,24,Celebrity Assistant,"Los Angeles, CA",Yawa,Red,1,No Merge,N/A,13,4,2,3,0,3,0,3,18,0
+622,Jessica Johnston,Heroes vs. Healers vs. Hustlers,29,Nurse Practitioner,"Louisville, KY",Soko,Yellow,1,Solewa,Purple,12,1,0,7,0,6,0,1,18,1
+623,Desi Williams,Heroes vs. Healers vs. Hustlers,27,Physical Therapist,"Newport News, VA",Soko,Yellow,1,Solewa,Purple,11,3,1,11,0,5,1,3,18,0
+624,Cole Medders,Heroes vs. Healers vs. Hustlers,24,Wilderness Therapy Guide,"Little Rock, AR",Soko,Yellow,1,Solewa,Purple,10,4,1,7,0,6,1,3,18,0
+625,JP Hilsabeck,Heroes vs. Healers vs. Hustlers,28,Firefighter,"Los Angeles, CA",Levu,Blue,1,Solewa,Purple,9,8,6,6,0,3,0,7,18,0
+626,Joe Mena,Heroes vs. Healers vs. Hustlers,34,Probation Officer,"Tolland, CT",Soko,Yellow,1,Solewa,Purple,8,6,3,12,2,5,0,6,18,1
+627,Lauren Rimmer,Heroes vs. Healers vs. Hustlers,35,Fisherman,"Beaufort, NC",Yawa,Red,1,Solewa,Purple,7,7,6,3,0,4,1,8,18,1
+628,Ashley Nolan,Heroes vs. Healers vs. Hustlers,26,Lifeguard,"Satellite Beach, FL",Levu,Blue,1,Solewa,Purple,6,10,6,8,0,4,2,9,18,0
+629,Mike Zahalsky,Heroes vs. Healers vs. Hustlers,43,Urologist,"Parkland, FL",Soko,Yellow,1,Solewa,Purple,5,9,3,9,2,6,0,8,18,1
+630,Devon Pinto,Heroes vs. Healers vs. Hustlers,24,Surf Instructor,"Solana Beach, CA",Yawa,Red,1,Solewa,Purple,4,11,10,2,0,3,0,12,18,0
+631,Ryan Ulrich,Heroes vs. Healers vs. Hustlers,23,Bellhop,"North Arlington, NJ",Yawa,Red,1,Solewa,Purple,3,14,10,2,2,2,0,13,18,1
+632,Chrissy Hofbeck,Heroes vs. Healers vs. Hustlers,46,Actuary,"Lebanon Township, NJ",Levu,Blue,1,Solewa,Purple,2,13,7,7,0,3,4,12,18,0
+633,Ben Driebergen,Heroes vs. Healers vs. Hustlers,34,Marine,"Boise, ID",Levu,Blue,1,Solewa,Purple,1,11,8,11,9,5,0,10,18,3
+634,Stephanie Gonzalez,Ghost Island,26,Graphic Saleswoman,"Ocala, FL",Malolo,Orange,0,No Merge,N/A,20,1,0,8,0,0,0,1,20,0
+635,Jacob Derwin,Ghost Island,22,Music Teacher,"Brooklyn, NY",Malolo,Orange,0,No Merge,N/A,19,1,0,5,0,0,0,1,20,0
+636,Morgan Ricke,Ghost Island,29,Marine Animal Trainer,"Orlando, FL",Naviti,Purple,1,No Merge,N/A,18,1,0,4,0,2,0,1,20,0
+637,Brendan Shapiro,Ghost Island,40,Physical Education Teacher,"Herndon, VA",Malolo,Orange,1,No Merge,N/A,17,3,2,5,0,1,0,3,20,0
+638,Stephanie Johnson,Ghost Island,34,Yoga Instructor,"Chicago, IL",Malolo,Orange,1,No Merge,N/A,16,4,2,7,0,1,0,4,20,0
+639,James Lim,Ghost Island,24,Business Analyst,"New York City, NY",Malolo,Orange,2,No Merge,N/A,15,4,3,6,0,2,0,4,20,0
+640,Bradley Kleihege,Ghost Island,26,Law Student,"Los Angeles, CA",Naviti,Purple,2,No Merge,N/A,14,3,2,8,0,4,0,3,20,0
+641,Chris Noble,Ghost Island,27,Male Model,"Brooklyn, NY",Naviti,Purple,2,Lavita,Black,13,0,0,10,0,6,0,1,20,0
+642,Libby Vineck,Ghost Island,24,Social Media Strategist,"Houston, TX",Malolo,Orange,2,Lavita,Black,12,6,4,8,0,3,0,6,20,0
+643,Desiree Afuye,Ghost Island,21,Student,"Brooklyn, NY",Naviti,Purple,2,Lavita,Black,11,6,4,10,0,4,0,6,20,0
+644,Jenna Bowman,Ghost Island,23,Account Executive,"Venice Beach, CA",Malolo,Orange,2,Lavita,Black,10,8,5,3,0,3,0,8,20,0
+645,Micheal Yerger,Ghost Island,18,Real Estate Agent,"Los Angeles, CA",Malolo,Orange,2,Lavita,Black,9,9,6,15,7,2,0,9,20,2
+646,Chelsea Townsend,Ghost Island,25,EMT/Pro Cheerleader,"Los Angeles, CA",Naviti,Purple,2,Lavita,Black,8,8,6,5,0,4,2,8,20,0
+647,Kellyn Bechtold,Ghost Island,30,Career Counselor,"Denver, CO",Naviti,Purple,2,Lavita,Black,7,11,7,8,0,4,1,9,20,1
+648,Sebastian Noel,Ghost Island,22,Fishing Guide,"Satellite Beach, FL",Naviti,Purple,2,Lavita,Black,6,10,6,5,0,5,0,9,20,0
+649,Donathan Hurley,Ghost Island,25,Caretaker,"Kimper, KY",Malolo,Orange,2,Lavita,Black,5,11,6,11,1,3,0,11,20,1
+650,Angela Perkins,Ghost Island,42,Army Veteran,"Cincinatti, OH",Naviti,Purple,2,Lavita,Black,4,10,5,3,0,5,1,11,20,0
+651,Laurel Johnson,Ghost Island,29,Financial Consultant,"Minneapolis, MN",Malolo,Orange,2,Lavita,Black,3,12,11,3,1,4,1,12,20,0
+652,Domenick Abbate,Ghost Island,38,Construction Supervisor,"Nesconset, NY",Naviti,Purple,2,Lavita,Black,2,12,10,2,0,5,3,11,20,2
+653,Wendell Holland,Ghost Island,33,Furniture Company Owner,"Philadelphia, PA",Naviti,Purple,2,Lavita,Black,1,11,9,5,0,6,2,10,20,1
+654,Pat Cusack,David vs. Goliath,41,Maintenance Manager,"Watervliet, NY",Vuku,Orange,0,No Merge,N/A,20,0,0,0,0,0,0,0,20,0
+655,Jessica Peet,David vs. Goliath,19,Waitress,"Lakeland, FL",Vuku,Orange,0,No Merge,N/A,19,1,0,5,0,0,0,1,20,0
+656,Jeremy Crawford,David vs. Goliath,39,Attorney,"New York City, NY",Jabeni,Purple,0,No Merge,N/A,18,1,0,9,0,2,0,1,20,0
+657,Bi Nguyen,David vs. Goliath,28,MMA Fighter,"Houston, TX",Vuku,Orange,0,No Merge,N/A,17,1,0,0,0,1,0,1,20,0
+658,Natalia Azoqa,David vs. Goliath,25,Industrial Engineer,"Irvine, CA",Jabeni,Purple,1,No Merge,N/A,16,2,1,3,0,2,0,2,20,0
+659,Natalie Cole,David vs. Goliath,57,Publishing CEO,"Los Angeles, CA",Jabeni,Purple,1,No Merge,N/A,15,2,1,4,0,3,0,2,20,0
+660,Lyrsa Torres,David vs. Goliath,36,Airline Agent,"Boston, MA",Vuku,Orange,1,No Merge,N/A,14,3,2,9,0,2,0,3,20,0
+661,Elizabeth Olsen,David vs. Goliath,31,Kitchen Staff,"Longview, TX",Vuku,Orange,1,Kalokalo,Blue,13,3,2,13,0,3,0,3,20,0
+662,John Hennigan,David vs. Goliath,38,Professional Wrestler,"Los Angeles, CA",Jabeni,Purple,1,Kalokalo,Blue,12,3,2,3,0,5,0,3,20,0
+663,Dan Rengering,David vs. Goliath,27,S.W.A.T Officer,"Gainesville, FL",Jabeni,Purple,1,Kalokalo,Blue,11,4,2,6,0,5,1,4,20,2
+664,Alec Merlino,David vs. Goliath,24,Bartender,"San Clemente, CA",Jabeni,Purple,1,Kalokalo,Blue,10,6,3,9,0,4,1,6,20,0
+665,Carl Boudreaux,David vs. Goliath,41,Truck Driver,"Houston, TX",Vuku,Orange,1,Kalokalo,Blue,9,6,3,6,0,3,0,6,20,1
+666,Gabby Pascuzzi,David vs. Goliath,25,Techincal Writer,"Denver, CO",Vuku,Orange,1,Kalokalo,Blue,8,7,5,2,0,4,0,7,20,0
+667,Christian Hubicki,David vs. Goliath,32,Robotics Scientist,"Tallahassee, FL",Vuku,Orange,1,Kalokalo,Blue,7,8,6,18,12,4,1,8,20,1
+668,Davie Rickenbacker,David vs. Goliath,30,Social Media Manager,"Atlanta, GA",Vuku,Orange,1,Kalokalo,Blue,6,10,5,7,2,3,1,10,20,2
+669,Alison Raybould,David vs. Goliath,28,Physician,"Chapel Hill, NC",Jabeni,Purple,1,Kalokalo,Blue,5,9,5,13,0,5,1,10,20,0
+670,Kara Kay,David vs. Goliath,30,Realtor,"San Diego, CA",Jabeni,Purple,1,Kalokalo,Blue,4,11,7,0,0,4,1,12,20,
+671,Angelina Keeley,David vs. Goliath,28,Financial Consultant,"San Clemente, CA",Jabeni,Purple,1,Kalokalo,Blue,3,12,8,6,2,3,0,13,20,
+672,Mike White,David vs. Goliath,47,Filmmaker,"Los Angeles, CA",Jabeni,Purple,1,Kalokalo,Blue,2,12,9,1,0,3,1,13,20,
+673,Nick Wilson,David vs. Goliath,27,Public Defender,"Williamsburg, KY",Vuku,Orange,1,Kalokalo,Blue,1,13,10,0,0,2,3,13,20,
+674,Keith Sowell,Edge of Extinction,19,Pre-Med Student,"Durham, NC",Manu,Blue,0,No Merge,N/A,18,2,1,6,0,0,0,2,18,
+675,Wendy Diaz,Edge of Extinction,25,Small Business Owner,"Bell, CA",Manu,Blue,1,No Merge,N/A,17,5,1,15,0,1,0,5,18,
+676,Reem Daly,Edge of Extinction,46,Sales Representative,"Ashburn, VA",Manu,Blue,0,No Merge,N/A,16,1,0,4,0,0,0,1,18,
+677,Aubry Bracco,Edge of Extinction,32,Returning Player,"Los Angeles, CA",Kama,Yellow,1,No Merge,N/A,15,1,0,4,0,4,0,1,18,
+678,Joe Anglim,Edge of Extinction,29,Returning Player,"Ogden, UT",Kama,Yellow,1,Vata,Red,14,1,0,6,0,6,0,1,18,
+679,Eric Hafemann,Edge of Extinction,35,Firefighter,"Livermore, CA",Kama,Yellow,1,Vata,Red,13,5,3,8,0,4,0,4,18,
+680,Julia Carter,Edge of Extinction,25,Medical Assistant,"Bethesda, MD",Kama,Yellow,1,Vata,Red,12,3,2,9,0,6,0,3,18,
+681,David Wright,Edge of Extinction,44,Returning Player,"Sherman Oaks, CA",Manu,Blue,1,Vata,Red,11,10,7,12,1,1,0,9,18,
+682,Kelley Wentworth,Edge of Extinction,31,Returning Player,"Seattle, WA",Manu,Blue,1,Vata,Red,10,11,8,14,0,1,0,10,18,
+683,Wardog DaSilva,Edge of Extinction,38,Law Student/Former Military,"Los Angeles, CA",Manu,Blue,1,Vata,Red,9,12,9,8,0,1,0,11,18,
+684,Ron Clark,Edge of Extinction,46,Teacher,"Atlanta, GA",Kama,Yellow,1,Vata,Red,8,7,5,3,0,6,0,7,18,
+685,Aurora McCreary,Edge of Extinction,32,Divorce Lawyer,"Orlando, FL",Kama,Yellow,1,Vata,Red,7,8,4,12,0,6,2,8,18,
+686,Victoria Baamonde,Edge of Extinction,23,Waitress,"Bronx, NY",Kama,Yellow,1,Vata,Red,6,12,9,2,0,4,0,11,18,
+687,Lauren O'Connell,Edge of Extinction,21,Student,"Waco, TX",Manu,Blue,1,Vata,Red,5,15,11,11,0,1,0,15,18,
+688,Rick Devens,Edge of Extinction,34,Morning News Anchor,"Macon, GA",Manu,Blue,1,Vata,Red,4,14,8,12,0,0,4,15,18,
+689,Julie Rosenburg,Edge of Extinction,46,Toymaker,"New York City, NY",Kama,Yellow,1,Vata,Red,3,10,6,1,7,6,2,11,18,
+690,Gavin Whitson,Edge of Extinction,23,YMCA Program Director ,"Erwin, TN",Kama,Yellow,1,Vata,Red,2,14,10,0,0,4,2,13,18,
+691,Chris Underwood,Edge of Extinction,25,District Sales Manager,"Greenville, SC",Manu,Blue,0,Vata,Red,1,5,4,9,4,0,1,6,18,
+692,Ronnie Hardah,Island of the Idols,36,Professional Poker Player,"Henderson, NV",Lairo,Orange,0,No Merge,N/A,20,1,0,7,0,0,0,1,18,
+693,Molly Byman,Island of the Idols,28,Law Student,"Durham, NC",Vokai,Purple,0,No Merge,N/A,19,1,0,7,0,1,0,1,18,
+694,Vince Moua,Island of the Idols,27,Admissions Counselor,"Palo Alto, CA",Lairo,Orange,0,No Merge,N/A,18,2,1,7,0,1,0,2,18,
+695,Chelsea Walker,Island of the Idols,27,Digital Content Creator,"Los Angeles, CA",Lairo,Orange,0,No Merge,N/A,17,3,2,6,0,1,0,3,18,
+696,Tom Laidlaw,Island of the Idols,60,Former NHL Player,"Greenwich, CT",Lairo,Orange,1,No Merge,N/A,16,4,2,6,0,1,0,4,18,
+697,Jason Linden,Island of the Idols,32,Personal Injury Lawyer,"New York City, NY",Vokai,Purple,1,No Merge,N/A,15,2,1,6,0,4,0,2,18,
+698,Jack Nichting,Island of the Idols,23,Graduate Student,"Harrisonburg, VA",Vokai,Purple,1,No Merge,N/A,14,3,1,2,0,4,0,3,18,
+699,Kellee Kim,Island of the Idols,29,MBA Student,"Philadelphia, PA",Vokai,Purple,1,Lumuwaku,Blue,13,4,2,8,0,4,0,4,18,
+700,Jamal Shipman,Island of the Idols,33,College Administrator,"Providence, RI",Vokai,Purple,1,Lumuwaku,Blue,12,4,2,6,0,4,0,5,18,
+701,Aaron Meredith,Island of the Idols,36,Gym Owner,"Warwick, RI",Lairo,Orange,1,Lumuwaku,Blue,11,7,4,5,0,3,2,7,18,
+702,Missy Byrd,Island of the Idols,24,Air Force Veteran,"Tacoma, WA",Lairo,Orange,1,Lumuwaku,Blue,10,7,5,3,0,3,1,7,18,
+703,Elizabeth Beisel,Island of the Idols,26,Olympic Medalist,"Saunderstown, RI",Lairo,Orange,1,Lumuwaku,Blue,9,7,4,8,0,3,0,8,18,
+704,Karishma Patel,Island of the Idols,37,Personal Injury Lawyer,"Houston, TX",Lairo,Orange,1,Lumuwaku,Blue,8,11,6,22,7,2,0,10,18,
+705,Elaine Stott,Island of the Idols,41,Factory Worker,"Rockholds, KY",Lairo,Orange,1,Lumuwaku,Blue,7,11,8,8,0,3,1,10,18,
+706,Dan Spilo,Island of the Idols,48,Talent Manager,"Los Angeles, CA",Vokai,Purple,1,Lumuwaku,Blue,6,9,6,5,0,5,0,8,18,
+707,Janet Carbin,Island of the Idols,59,Chief Lifeguard,"Palm Bay, FL",Vokai,Purple,1,Lumuwaku,Blue,5,10,5,8,2,4,0,10,18,
+708,Lauren Beck,Island of the Idols,29,Nanny,"Glendale, CA",Vokai,Purple,1,Lumuwaku,Blue,4,10,7,1,0,5,1,10,18,
+709,Noura Salman,Island of the Idols,36,Entrepreneur,"North Potomac, MD",Vokai,Purple,1,Lumuwaku,Blue,3,10,8,6,0,4,3,11,18,
+710,Dean Kowalski,Island of the Idols,28,Tech Salesman,"New York City, NY",Lairo,Orange,1,Lumuwaku,Blue,2,13,9,5,5,2,2,13,18,
+711,Tommy Sheehan,Island of the Idols,26,4th Grade Teacher,"Long Beach, NY",Vokai,Purple,1,Lumuwaku,Blue,1,10,8,2,0,5,0,10,18,
+712,Sandra Diaz-Twine,Winners at War,44,Returning Winner,"Riverview, FL",Dakal,Red,1,No Merge,N/A,20,3,2,1,0,4,0,3,20,
+713,Amber Mariano,Winners at War,40,Returning Winner,"Pensacola, FL",Dakal,Red,0,No Merge,N/A,19,1,0,6,0,1,0,1,20,
+714,Danni Boatwright,Winners at War,43,Returning Winner,"Shawnee, KS",Sele,Blue,0,No Merge,N/A,18,2,1,8,0,1,0,2,20,
+715,Ethan Zohn,Winners at War,45,Returning Winner,"Hillsborough, NH",Sele,Blue,0,No Merge,N/A,17,3,2,4,0,1,0,3,20,
+716,Rob Mariano,Winners at War,43,Returning Winner,"Pensacola, FL",Sele,Blue,1,No Merge,N/A,16,4,2,4,0,2,0,4,20,
+717,Parvati Shallow,Winners at War,36,Returning Winner,"Los Angeles, CA",Sele,Blue,1,No Merge,N/A,15,4,2,5,0,3,0,4,20,
+718,Yul Kwon,Winners at War,44,Returning Winner,"Los Altos, CA",Dakal,Red,1,No Merge,N/A,14,4,3,3,0,4,0,4,20,
+719,Wendell Holland,Winners at War,35,Returning Winner,"Philadelphia, PA",Dakal,Red,1,Koru,Gold,13,5,4,12,0,4,0,5,20,
+720,Adam Klein,Winners at War,28,Returning Winner,"Los Angeles, CA",Sele,Blue,1,Koru,Gold,12,6,4,15,0,4,0,6,20,
+721,Tyson Apostol,Winners at War,39,Returning Winner,"Mesa, AZ",Dakal,Red,0,Koru,Gold,11,5,3,12,0,3,0,5,20,
+722,Sophie Clarke,Winners at War,29,Returning Winner,"Santa Monica, CA",Dakal,Red,1,Koru,Gold,10,7,4,6,0,5,0,7,20,
+723,Kim Spradlin-Wolfe,Winners at War,36,Returning Winner,"San Antonio, TX",Dakal ,Red,1,Koru,Gold,9,8,4,9,0,5,1,8,20,
+724,Jeremy Collins,Winners at War,41,Returning Winner,"Foxborough, MA",Sele,Blue,1,Koru,Gold,8,9,6,9,0,4,1,9,20,
+725,Nick Wilson,Winners at War,28,Returning Winner,"Williamsburg, KY",Dakal,Red,1,Koru,Gold,7,11,8,8,0,4,1,11,20,
+726,Denise Stapley,Winners at War,48,Returning Winner,"Marion, IA",Sele,Blue,1,Koru,Gold,6,11,6,14,6,4,2,12,20,
+727,Ben Driebergen,Winners at War,36,Returning Winner,"Boise, ID",Sele,Blue,1,Koru,Gold,5,14,11,7,2,4,0,13,20,
+728,Sarah Lacina,Winners at War,34,Returning Winner,"Cedar Rapids, IA",Dakal,Red,1,Koru,Gold,4,13,7,2,0,5,0,13,20,
+729,Michele Fitzgerald,Winners at War,29,Returning Winner,"Hoboken, NJ",Sele,Blue,1,Koru,Gold,3,15,8,6,2,3,2,15,20,
+730,Natalie Anderson ,Winners at War,33,Returning Winner,"Edgewater, NJ",Sele,Blue,0,Koru,Gold,2,4,2,11,4,0,1,4,20,
+731,Tony Vlachos,Winners at War,45,Returning Winner,"Allendale, NJ",Dakal,Red,1,Koru,Gold,1,13,9,0,0,5,4,13,20,
+732,Eric Abraham,Survivor 41,50,Cyber Security Analyst,"San Antonio, TX",Yase,Yellow,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,
+733,Sara Wilson,Survivor 41,23,Healthcare Consultant,"Boston, MA",Ua,Green,0,No Merge,N/A,17,1,0,4,0,0,0,1,18,
+734,David Voce,Survivor 41,34,Neurosurgeon,"Chicago, IL",Yase,Yellow,0,No Merge,N/A,16,2,1,3,0,0,0,2,18,
+735,Brad Reese,Survivor 41,49,Rancher,"Shawnee, WY",Ua,Green,0,No Merge,N/A,15,1,1,3,0,1,0,2,18,
+736,JD Robinson,Survivor 41,20,College Student,"Oklahoma City, OK",Ua,Green,0,No Merge,N/A,14,3,2,4,0,1,0,3,18,
+737,Genie Chen,Survivor 41,46,Grocery Clerk,"Portland, OR",Ua,Green,0,No Merge,N/A,13,4,1,3,0,1,0,4,18,
+738,Sydney Segal,Survivor 41,25,Law Student,"Brooklyn, NY",Luvu,Blue,0,Viakana,Red,12,0,0,5,0,5,0,1,18,
+739,Tiffany Seely,Survivor 41,47,Teacher,"Plainview, NY",Yase,Yellow,0,Viakana,Red,11,4,2,8,0,4,0,4,18,
+740,Naseer Muttalif,Survivor 41,36,Sales Manager,"Morgan Hill, CA",Luvu,Blue,0,Viakana,Red,10,3,1,8,0,5,0,3,18,
+741,Evvie Jagoda,Survivor 41,28,Ph.D. Student,"Arlington, MA",Yase,Yellow,0,Viakana,Red,9,5,2,7,0,3,1,5,18,
+742,Shan Smith,Survivor 41,34,Pastor,"Washington, DC",Ua,Green,0,Viakana,Red,8,11,9,9,0,2,0,8,18,
+743,Liana Wallace,Survivor 41,20,College Student,"Washington, DC",Yase,Yellow,0,Viakana,Red,7,7,5,10,0,4,0,7,18,
+744,Danny McCray,Survivor 41,33,Ex-NFL Player,"Frisco, TX",Luvu,Blue,0,Viakana,Red,6,7,3,7,0,5,2,6,18,
+745,Ricard Foyé,Survivor 41,31,Flight Attendant,"Sedro-Woolley, WA",Ua,Green,0,Viakana,Red,5,14,10,9,0,1,2,11,18,
+746,Heather Aldret,Survivor 41,52,Stay-At-Home Mom,"Charleston, SC",Luvu,Blue,0,Viakana,Red,4,9,7,5,0,6,0,8,18,
+747,Xander Hastings,Survivor 41,20,App Developer,"Chicago, IL",Yase,Yellow,0,Viakana,Red,3,11,6,2,0,4,2,10,18,
+748,Deshawn Radden,Survivor 41,25,Medical Student,"Miami, FL",Luvu,Blue,0,Viakana,Red,2,9,6,7,0,5,0,8,18,
+749,Erika Casupanan,Survivor 41,31,Communications Manager,"Toronto, ON",Luvu,Blue,0,Viakana,Red,1,10,9,2,0,6,2,9,18,
+750,Jackson Fox,Survivor 42,47,Healthcare Worker,"Houston, TX",Taku,Orange,0,No Merge,N/A,18,0,0,0,0,0,0,0,18,
+751,Zach Wurtenberger,Survivor 42,21,Student,"St. Louis, MO",Ika,Blue,0,No Merge,N/A,17,0,0,5,0,0,0,1,18,
+752,Marya Sherron,Survivor 42,47,Stay-At-Home Mom,"Noblesville, IN",Taku,Orange,0,No Merge,N/A,16,0,0,4,0,1,0,1,18,
+753,Jenny Kim,Survivor 42,42,Creative Director,"Brooklyn, NY",Vati,Green,0,No Merge,N/A,15,1,0,5,0,2,0,1,18,
+754,Swati Goel,Survivor 42,19,Ivy League Student,"Palo Alto, CA",Ika,Blue,0,No Merge,N/A,14,1,1,3,0,2,0,2,18,
+755,Daniel Strunk,Survivor 42,30,Law Clerk,"New Haven, CT",Vati,Green,0,No Merge,N/A,13,4,1,5,0,3,0,2,18,
+756,Lydia Meredith,Survivor 42,21,Waitress,"Santa Monica, CA",Vati,Green,0,Kula Kula,Purple,12,4,3,9,0,3,0,3,18,
+757,Chanelle Howell,Survivor 42,28,Executive Recruiter,"New York City, NY",Vati,Green,0,Kula Kula,Purple,11,3,0,9,0,4,0,4,18,
+758,Rocksroy Bailey,Survivor 42,43,Stay-At-Home Dad,"Las Vegas, NV",Ika,Blue,0,Kula Kula,Purple,10,5,2,4,0,4,0,5,18,
+759,Tori Meehan,Survivor 42,24,Therapist,"Rogers, AR",Ika,Blue,0,Kula Kula,Purple,9,4,3,5,0,3,2,5,18,
+760,Hai Giang,Survivor 42,28,Data Scientist,"New Orleans, LA",Vati,Green,0,Kula Kula,Purple,8,9,8,7,0,3,1,6,18,
+761,Drea Wheeler,Survivor 42,34,Fitness Consultant,"Montreal, QC",Ika,Blue,0,Kula Kula,Purple,7,8,6,5,0,4,0,7,18,
+762,Omar Zaheer,Survivor 42,30,Veterinarian,"Whitby, ON",Taku,Orange,0,Kula Kula,Purple,6,6,4,3,0,5,0,7,18,
+763,Lindsay Dolashewich,Survivor 42,30,Dietitian,"Asbury Park, NJ",Taku,Orange,0,Kula Kula,Purple,5,8,6,5,0,4,2,8,18,
+764,Jonathan Young,Survivor 42,28,Beach Service Company Owner,"Gulf Shores, AL",Taku,Orange,0,Kula Kula,Purple,4,8,7,7,0,4,2,9,18,
+765,Romeo Escobar,Survivor 42,37,Pageant Coach,"Norwalk, CA",Ika,Blue,0,Kula Kula,Purple,3,9,5,6,0,4,1,10,18,
+766,Mike Turner,Survivor 42,57,Retired Firefighter,"Hoboken, NJ",Vati,Green,0,Kula Kula,Purple,2,9,7,4,0,4,1,10,18,
+767,Maryanne Oketch,Survivor 42,23,Seminary Student,"Ajax, ON",Taku,Orange,0,Kula Kula,Purple,1,9,8,2,0,4,0,9,18,
+768,Morriah Young,Survivor 43,28,Teacher,"Philadelphia, PA",Baka,Yellow,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,
+769,Justine Brennan,Survivor 43,29,Cyber Security Saleswoman,"Marina del Ray, CA",Vesi,Red,0,No Merge,N/A,17,1,0,3,0,1,0,1,18,
+770,Nneka Ejere,Survivor 43,42,Pharmacist,"Weatherford, TX",Vesi,Red,0,No Merge,N/A,16,2,1,5,0,1,0,2,18,
+771,Lindsay Carmine,Survivor 43,42,Pediatric Nurse,"Downingtown, PA",Coco,Blue,0,No Merge,N/A,15,1,0,4,0,3,0,1,18,
+772,Geo Bustamante,Survivor 43,35,Project Manager,"Honolulu, HI",Coco,Blue,0,No Merge,N/A,14,2,0,4,0,3,0,2,18,
+773,Elie Scott,Survivor 43,31,Clinical Psychologist,"Salt Lake City, UT",Baka,Yellow,0,Gaia,Turquiose,13,2,1,7,0,4,0,2,18,
+774,Dwight Moore,Survivor 43,21,Graduate Student,"Collierville, TN",Vesi,Red,0,Gaia,Turquiose,12,3,2,7,0,4,0,4,18,
+775,Jeanine Zheng,Survivor 43,24,UX Designer,"San Francisco, CA",Baka,Yellow,0,Gaia,Turquiose,11,3,1,9,0,5,0,4,18,
+776,James Jones,Survivor 43,36,Event Planner,"Philadelphia, PA",Coco,Blue,0,Gaia,Turquiose,10,6,5,8,0,3,0,6,18,
+777,Ryan Medrano,Survivor 43,24,Warehouse Associate,"El Paso, TX",Coco,Blue,0,Gaia,Turquiose,9,6,4,9,0,4,0,6,18,
+778,Noelle Lambert,Survivor 43,25,U.S. Paralympian,"Manchester, NH",Vesi,Red,0,Gaia,Turquiose,8,8,5,6,0,4,0,7,18,
+779,Sami Layadi,Survivor 43,19,Pet Cremator,"Las Vegas, NV",Baka,Yellow,0,Gaia,Turquiose,7,6,5,7,0,4,0,7,18,
+780,Cody Assenmacher,Survivor 43,35,Elevator Salesman,"Honolulu, HI",Vesi,Red,0,Gaia,Turquiose,6,9,8,5,0,3,1,9,18,
+781,Karla Cruz Godoy,Survivor 43,28,Educational Project Manager,"Newark, DE",Coco,Blue,0,Gaia,Turquiose,5,10,7,7,1,4,2,10,18,
+782,Jesse Lopez,Survivor 43,30,Political Science Ph.D.,"Durham, NC",Vesi,Red,0,Gaia,Turquiose,4,9,9,1,1,4,0,11,18,
+783,Owen Knight,Survivor 43,29,College Admissions Director,"New Orleans, LA",Baka,Yellow,0,Gaia,Turquiose,3,8,5,4,1,4,3,10,18,
+784,Cassidy Clark,Survivor 43,26,Designer,"Austin, TX",Coco,Blue,0,Gaia,Turquiose,2,10,9,5,0,3,3,11,18,
+785,Mike Gabler,Survivor 43,51,Heart Valve Specialist,"Meridian, ID",Baka,Yellow,0,Gaia,Turquiose,1,9,8,0,0,4,1,10,18,
+786,Bruce Perreault,Survivor 44,45,Insurance Agent,"Warwick, RI",Tika,Purple,0,No Merge,N/A,18,0,0,0,0,0,0,0,18,
+787,Maddy Pomilla,Survivor 44,28,Charity Projects Manager,"Brooklyn, NY",Ratu,Orange,0,No Merge,N/A,17,1,0,1,0,0,0,1,18,
+788,Helen Li,Survivor 44,28,Product Manager,"San Francisco, CA",Tika,Purple,0,No Merge,N/A,16,1,0,3,0,1,0,1,18,
+789,Claire Rafson,Survivor 44,25,Tech Investor,"Brooklyn, NY",Soka,Green,0,No Merge,N/A,15,0,0,4,0,2,0,1,18,
+790,Sarah Wade,Survivor 44,26,Management Consultant,"Chicago, IL",Tika,Purple,1,No Merge,N/A,14,1,0,2,0,2,0,2,18,
+791,Matthew Grinstead-Mayle,Survivor 44,43,Barbershop Owner,"Columbus, OH",Ratu,Orange,1,No Merge,N/A,13,1,0,0,0,4,0,1,18,
+792,Josh Wilder,Survivor 44,34,Surgical Podiatrist,"Atlanta, GA",Soka,Green,1,Va Va,Black,12,3,2,9,2,2,0,3,18,
+793,Matt Blankinship,Survivor 44,27,Security Software Engineer,"San Francisco, CA",Soka,Green,1,Va Va,Black,11,1,0,3,0,5,0,3,18,
+794,Brandon Cottom,Survivor 44,29,Security Specialist,"Newtown, PA",Ratu,Orange,1,Va Va,Black,10,4,2,6,2,5,1,4,18,
+795,Kane Fritzler,Survivor 44,24,Law Student,"Saskatoon, SK",Ratu,Orange,1,Va Va,Black,9,4,0,6,0,4,0,4,18,
+796,Frannie Marin,Survivor 44,23,Research Coordinator,"Cambridge, MA",Soka,Green,1,Va Va,Black,8,5,3,11,6,5,2,5,18,
+797,Danny Massa,Survivor 44,31,Firefighter,"Bronx, NY",Soka,Green,1,Va Va,Black,7,6,5,5,0,4,0,6,18,
+798,Jaime Lynn Ruiz,Survivor 44,35,Yogi,"Mesa, AZ",Ratu,Orange,1,Va Va,Black,6,8,3,5,0,5,0,8,18,
+799,Lauren Harpe,Survivor 44,30,Elementary School Teacher,"Mont Belvieu, TX",Ratu,Orange,1,Va Va,Black ,5,8,2,3,0,4,2,9,18,
+800,Carson Garrett,Survivor 44,20,NASA Engineering Student,"Atlanta, GA",Tika,Purple,1,Va Va,Black,4,8,7,2,2,4,2,9,18,
+801,Carolyn Wiger,Survivor 44,35,Drug Counselor,"Hugo, MN",Tika,Purple,1,Va Va,Black,3,9,7,3,0,3,0,10,18,
+802,Heidi Lagares-Greenblatt,Survivor 44,42,Engineering Manager,"Pittsburgh, PA",Soka,Green,1,Va Va,Black,2,8,6,8,0,4,1,9,18,
+803,Yam Yam Arocho,Survivor 44,35,Salon Owner,"San Juan, PR",Tika,Purple,1,Va Va,Black,1,10,7,6,0,2,1,11,18,
+804,Hannah Rose,Survivor 45,32,Therapist,"Baltimore City, MD",Lulu,Yellow,0,No Merge,N/A,18,0,0,0,0,0,0,1,18,
+805,Brandon Donlon,Survivor 45,25,Content Producer,"Sicklerville, NJ",Lulu,Yellow,0,No Merge,N/A,17,0,0,3,0,0,0,2,18,
+806,Sabiyah Broderick,Survivor 45,27,Truck Driver,"Jacksonville, NC",Lulu,Yellow,0,No Merge,N/A,16,1,0,3,0,0,0,3,18,
+807,Sean Edwards,Survivor 45,34,School Principal,"Provo-Orem, UT",Lulu,Yellow,1,No Merge,N/A,15,3,1,3,0,0,0,4,18,
+808,Brando Meyer,Survivor 45,22,Software Developer,"Seattle, WA",Belo,Blue,1,No Merge,N/A,14,1,0,3,0,4,0,1,18,
+809,J. Maya,Survivor 45,24,Singer,"Los Angeles, CA",Reba,Red,1,Dakuwaqa,Orange,13,3,1,10,0,4,0,2,18,
+810,Sifu Alsup,Survivor 45,30,Gym Owner,"O'Fallen, IL",Reba,Red,1,Dakuwaqa,Orange,12,4,2,6,0,5,0,3,18,
+811,Kaleb Gebrewold,Survivor 45,28,Software Salesman,"Vancouver, BC",Lulu,Yellow,1,Dakuwaqa,Orange,11,3,2,16,11,2,0,4,18,
+812,Kellie Nalbandian,Survivor 45,29,Critical Care Nurse,"New York, NY",Belo,Blue,1,Dakuwaqa,Orange,10,4,2,5,0,5,1,3,18,
+813,Kendra McQuarrie,Survivor 45,30,Bartender,"Steamboat Springs, CO",Belo,Blue,1,Dakuwaqa,Orange,9,6,2,6,0,5,0,5,18,
+814,Bruce Perreault,Survivor 45,46,Returning Player,"Warwick, RI",Belo,Blue,1,Dakuwaqa,Orange,8,5,3,5,0,6,2,5,18,
+815,Emily Flippen,Survivor 45,28,Investment Analyst,"Laurel, MD",Lulu,Yellow,1,Dakuwaqa,Orange,7,9,7,2,0,1,0,9,18,
+816,Drew Basile,Survivor 45,22,Graduate Student,"Philadelphia, PA",Reba,Red,1,Dakuwaqa,Orange,6,9,5,6,0,5,1,8,18,
+817,Julie Alley,Survivor 45,49,Estate Attorney,"Brentwood, TN",Reba,Red,1,Dakuwaqa,Orange,5,10,8,13,6,5,0,9,18,
+818,Katurah Topps,Survivor 45,34,Civil Rights Attorney,"Brooklyn, NY",Belo,Blue,1,Dakuwaqa,Orange,4,8,5,1,1,6,0,9,18,
+819,Jake O'Kane,Survivor 45,26,Attorney,"Boston, MA",Belo,Blue,1,Dakuwaqa,Orange,3,8,4,8,0,6,0,9,18,
+820,Austin Li Coon,Survivor 45,26,Graduate Student,"Chicago, IL",Reba,Red,1,Dakuwaqa,Orange,2,8,6,0,0,5,2,10,18,
+821,Dee Valladares,Survivor 45,26,Entrepreneur,"Miami, FL",Reba,Red,1,Dakuwaqa,Orange,1,10,5,2,0,4,3,10,18,
+822,David Jelinsky,Survivor 46,21,Slot Machine Salesman,"Las Vegas, NV",Yanu,Purple,0,No Merge,N/A,18,0,0,5,0,0,0,1,18,
+823,Jess Chong,Survivor 46,37,Software Engineer,"San Francisco, CA",Yanu,Purple,0,No Merge,N/A,17,2,1,4,0,0,0,2,18,
+824,Randen Montalvo,Survivor 46,40,Aerospace Tech,"Orlando, FL",Nami,Orange,0,No Merge,N/A,16,0,0,0,0,0,0,0,18,
+825,Bhanu Gopal,Survivor 46,40,IT Quality Analyst,"Acton, MA",Yanu,Purple,0,No Merge,N/A,15,2,2,4,0,0,0,3,18,
+826,Jem Hussain-Adams,Survivor 46,31,International Brand Mentor,"Chicago, IL",Siga,Green,0,No Merge,N/A,14,1,0,4,0,4,0,1,18,
+827,Moriah Gaynor,Survivor 46,28,Program Coordinator,"San Diego, CA",Siga,Green,0,Nuinui,Red,13,1,0,10,0,4,0,2,18,
+828,Tim Spicer,Survivor 46,30,College Coach,"Atlanta, GA",Siga,Green,0,Nuinui,Red,12,3,2,4,0,5,0,3,18,
+829,Soda Thompson,Survivor 46,27,Special Ed Teacher,"Lake Hopatcong, NJ",Nami,Orange,0,Nuinui,Red,11,2,1,4,0,5,0,2,18,
+830,Tevin Davis,Survivor 46,24,Actor,"Richmond, VA",Nami,Orange,0,Nuinui,Red,10,3,2,8,0,6,0,2,18,
+831,Hunter McKnight,Survivor 46,27,Science Teacher,"French Camp, MS",Nami ,Orange,0,Nuinui,Red,9,3,1,12,0,6,1,3,18,
+832,Tiffany Nicole Ervin,Survivor 46,32,Artist,"Elizabeth, NJ",Yanu,Purple,0,Nuinui,Red,8,9,8,5,0,2,0,8,18,
+833,Venus Vafa,Survivor 46,24,Data Analyst,"Toronto, ON",Nami,Orange,0,Nuinui,Red,7,7,4,10,0,5,0,6,18,
+834,Q Burdette,Survivor 46,29,Real Estate Agent,"Memphis, TN",Yanu,Purple,0,Nuinui,Red,6,10,8,13,0,2,0,10,18,
+835,Maria Shrime Gonzalez,Survivor 46,47,Parent Coach,"Dallas, TX",Siga,Green,0,Nuinui,Red,5,11,9,4,0,4,3,9,18,
+836,Liz Wilcox,Survivor 46,35,Marketing Strategist,"Orlando, FL",Nami,Orange,0,Nuinui,Red,4,9,7,0,0,5,0,9,18,
+837,Ben Katzman,Survivor 46,31,Musician,"Miami, FL",Siga,Green,0,Nuinui,Red,3,9,7,4,0,5,1,10,18,
+838,Charlie Davis,Survivor 46,25,Law Student,"Boston, MA",Siga,Green,0,Nuinui,Red,2,10,9,2,0,4,2,10,18,
+839,Kenzie Petty,Survivor 46,28,Salon Owner,"Charlotte, NC",Yanu,Purple,0,Nuinui,Red,1,12,10,1,0,2,2,12,18,
+840,Jon Lovett,Survivor 47,41,Podcast Host,"Los Angeles, CA",Gata,Yellow,0,No Merge,N/A,18,1,0,5,0,0,0,1,18,
+841,TK Foster,Survivor 47,31,Athlete Marketing Manager,"Upper Marlboro, MD",Tuku,Blue,0,No Merge,N/A,17,1,0,4,0,1,0,1,18,
+842,Aysha Welch,Survivor 47,32,IT Consultant,"Houston, TX",Lavo,Red,0,No Merge,N/A,16,1,0,3,0,2,0,1,18,
+843,Kishan Patel,Survivor 47,27,ER Doctor,"San Francisco, CA",Lavo,Red,0,No Merge,N/A,15,1,1,4,0,2,0,2,18,
+844,Anika Dhar,Survivor 47,26,Marketing Manager,"Los Angeles, CA",Gata,Yellow,0,No Merge,N/A,14,1,0,4,0,3,0,2,18,
+845,Rome Cooney,Survivor 47,30,E-Sports Commentator,"Phoenix, AZ",Lavo,Red,0,Beka,Purple,13,4,3,10,1,2,0,3,18,
+846,Tiyana Hallums,Survivor 47,27,Flight Attendant,"Aiea, HI",Tuku,Blue,0,Beka,Purple,12,3,2,4,0,4,0,3,18,
+847,Sierra Wright,Survivor 47,26,Nurse,"Phoenixville, PA",Gata,Yellow,0,Beka,Purple,11,5,3,12,0,3,0,4,18,
+848,Sol Yi,Survivor 47,42,Medical Device Salesman,"Norwalk, CT",Lavo,Red,0,Beka,Purple,10,6,2,9,0,3,0,5,18,
+849,Gabe Ortiz,Survivor 47,26,Radio Show Host,"Baltimore, MD",Tuku,Blue,0,Beka,Purple,9,7,6,9,0,4,1,6,18,
+850,Kyle Ostwald,Survivor 47,31,Construction Worker,"Cheboygan, MI",Tuku,Blue,0,Beka,Purple,8,7,5,6,0,4,4,7,18,
+851,Caroline Vidmar,Survivor 47,27,Strategy Consultant,"Chicago, IL",Tuku,Blue,0,Beka,Purple,7,8,7,3,0,4,0,8,18,
+852,Andy Rueda,Survivor 47,31,AI Research Assistant,"Brooklyn, NY",Gata,Yellow,0,Beka,Purple,6,10,7,5,0,3,0,9,18,
+853,Genevieve Mushaluk,Survivor 47,32,Corporate Lawyer,"Winnipeg, MB",Lavo,Red,0,Beka,Purple,5,11,8,9,0,3,1,10,18,
+854,Teeny Chirichillo,Survivor 47,23,Freelance Writer,"Manahawkin, NJ",Lavo,Red,0,Beka,Purple,4,10,5,1,0,3,0,11,18,
+855,Sue Smey,Survivor 47,58,Flight School Owner,"Putnam Valley, NY",Tuku,Blue,0,Beka,Purple,3,11,8,3,0,4,1,11,18,
+856,Sam Phalen,Survivor 47,24,Sports Reporter,"Nashville, TN",Gata,Yellow,0,Beka,Purple,2,8,8,10,0,3,0,11,18,
+857,Rachel LaMont,Survivor 47,34,Graphic Designer,"Southfield, MI",Gata ,Yellow,0,Beka,Purple,1,9,7,3,3,3,4,12,18,
+858,Stephanie Berger,Survivor 48,37,Tech Product Lead,"Brooklyn, NY",Vula,Green,0,No Merge,N/A,18,0,0,4,0,0,0,1,18,
+859,Kevin Leung,Survivor 48,33,Finance Manager,"Livermore, CA",Vula,Green,0,No Merge,N/A,17,2,1,3,0,0,0,2,18,
+860,Justin Pioppi,Survivor 48,29,Pizzeria Manager,"Winthrop, MA",Vula,Green,0,No Merge,N/A,16,2,2,3,0,0,0,3,18,
+861,Thomas Krottinger,Survivor 48,34,Music Executive,"Los Angeles, CA",Lagi,Purple,1,No Merge,N/A,15,1,0,3,3,0,0,1,18,
+862,Bianca Roses,Survivor 48,32,PR Consultant,"Arlington, VA",Lagi,Purple,1,No Merge,N/A,14,0,0,2,0,4,0,1,18,
+863,Charity Nelms,Survivor 48,33,Flight Attendant,"St. Petersburg, FL",Civa,Orange,1,Niu Nai,Blue,13,1,0,7,0,5,0,1,18,
+864,Saiounia Hughley,Survivor 48,29,Marketing Professional,"Simi Valley, CA",Vula,Green,1,Niu Nai,Blue,12,7,5,15,1,1,0,6,18,
+865,Cedrek McFadden,Survivor 48,45,Surgeon,"Greenville, SC",Vula,Green,1,Niu Nai,Blue,11,9,5,6,0,1,0,6,18,
+866,Chrissy Sarnowsky,Survivor 48,54,Fire Lieutenant,"Chicago, IL",Civa,Orange,1,Niu Nai,Blue,10,4,3,9,0,4,0,4,18,
+867,David Kinne,Survivor 48,38,Stunt Performer,"Buena Park, CA",Civa,Orange,1,Niu Nai,Blue,9,4,2,6,0,5,1,4,18,
+868,Star Toomey,Survivor 48,27,Sales Expert,"Augusta, GA",Lagi,Purple,1,Niu Nai,Blue,8,4,2,5,0,5,0,5,18,
+869,Mary Zheng,Survivor 48,30,Substance Abuse Counselor,"Philadelphia, PA",Vula,Green,1,Niu Nai,Blue,7,7,4,11,2,2,0,9,18,
+870,Shauhin Davari,Survivor 48,37,Debate Professor,"Costa Mesa, CA",Lagi,Purple,1,Niu Nai,Blue,6,8,6,6,0,4,0,8,18,
+871,Mitch Guerra,Survivor 48,34,P.E. Coach,"Waco, TX",Civa,Orange,1,Niu Nai,Blue,5,9,5,9,0,4,0,9,18,
+872,Kamilla Karthigesu,Survivor 48,30,Software Engineer,"Foster City, CA",Civa,Orange,1,Niu Nai,Blue,4,9,7,0,0,4,2,10,18,
+873,Joe Hunter,Survivor 48,45,Fire Captain,"West Sacramento, CA",Lagi,Purple,1,Niu Nai,Blue,3,9,8,1,0,4,4,10,18,
+874,Eva Erickson,Survivor 48,23,PhD Candidate,"Providence, RI",Lagi,Purple,1,Niu Nai,Blue,2,8,7,0,0,5,1,9,18,
+875,Kyle Fraser,Survivor 48,30,Attorney,"Brooklyn, NY",Civa,Orange,1,Niu Nai,Blue,1,10,10,4,3,4,2,10,18,
