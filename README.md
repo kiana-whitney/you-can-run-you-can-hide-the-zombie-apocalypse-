@@ -64,3 +64,5 @@ $$
 - Military and Veterans:
     - Veteran Populations: https://www.ruralhealthinfo.org/charts/97
     - Active Duty Military and Government Civilians: https://dwp.dmdc.osd.mil/dwp/app/dod-data-reports/workforce-reports
+- Environment and Geography:
+    - Latitute, Longitude, Elevation, and Annual Precipitation: https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/
