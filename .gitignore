@@ -207,3 +207,5 @@ marimo/_lsp/
 __marimo__/
 
 .idea!/anaconda_projects/
+.idea
+anaconda_projects/db/project_filebrowser.db
