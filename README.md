@@ -62,7 +62,7 @@ $$
     - Gun Ownership: https://ammo.com/articles/gun-ownership-by-state & https://worldpopulationreview.com/state-rankings/gun-ownership-by-state
     - Gun Sales: https://datahub.thetrace.org/dataset/gun-sales/
 - Military and Veterans:
-    - Veteran Populations: https://www.ruralhealthinfo.org/charts/97
+    - Veteran Populations: https://www.ruralhealthinfo.org/charts/97](https://carolinademography.cpc.unc.edu/2021/05/27/who-are-north-carolinas-veterans/
     - Active Duty Military and Government Civilians: https://dwp.dmdc.osd.mil/dwp/app/dod-data-reports/workforce-reports
 - Environment and Geography:
     - Latitute, Longitude, Elevation, and Annual Precipitation: https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/
