@@ -55,6 +55,17 @@ $$
 - https://maplapse.readthedocs.io/en/latest/
 - https://medium.com/tech-carnot/time-lapse-choropleth-map-visualization-using-geopandas-8adb77a7d14
 
+
+## File Naming Convention
+```
+nc_name_of_topic.csv
+```
+Examples:
+```
+nc_population.csv
+nc_geography_and_weather.csv
+```
+
 ## Data Resources:
 - Age Demographics: https://data.census.gov/table/ACSST5Y2023.S0101?g=010XX00US$0500000&moe=true
 - Hunting and Fishing Licenses: https://partnerwithapayer.org/funding-sources/
