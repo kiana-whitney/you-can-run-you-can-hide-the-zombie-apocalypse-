@@ -29,9 +29,8 @@ The Human Survival Index will incorporate several categories of survivability mo
 Each category can itself be normalized around 0.
 
 **Weighted Formula**
-
 $$
-\text{HSI} = w_{H\&P}\, H\&P + w_{E\&A}\, E\&A + w_{M\&E}\, M\&E + w_{S\&C}\, S\&C + w_{I\&P}\, I\&P + w_{E\&G}\, E\&G
+\text{HSI} = w_{H\&P} \cdot H\&P + w_{E\&A} \cdot E\&A + w_{M\&E} \cdot M\&E + w_{S\&C} \cdot S\&C + w_{I\&P} \cdot I\&P + w_{E\&G} \cdot E\&G
 $$
 
 where:
