@@ -54,6 +54,7 @@ $$
 - https://github.com/epistorm/epydemix
 - https://maplapse.readthedocs.io/en/latest/
 - https://medium.com/tech-carnot/time-lapse-choropleth-map-visualization-using-geopandas-8adb77a7d14
+- https://ncpro.nc.gov/north-carolina-economic-resilience-index
 
 
 ## File Naming Convention
