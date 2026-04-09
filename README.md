@@ -72,6 +72,7 @@ nc_geography_and_weather.csv
 Social and Community Factors
 - Age Demographics: https://data.census.gov/table/ACSST5Y2023.S0101?g=010XX00US$0500000&moe=true
 - Hunting and Fishing:
+    - NC Game Harvests: https://www.ncwildlife.gov/hunting/harvest-statistics
 - Gun Ownership:
     - Gun Ownership: https://schs.dph.ncdhhs.gov/data/brfss/2021/nc/all/GunStat.html
     - Country Classification: https://connect.ncdot.gov/events/Documents/nc-county-classifications.pdf
