@@ -31,24 +31,24 @@ Each category can itself be normalized around 0.
 **Weighted Formula**
 
 $$
-\text{HSI} = w_H H + w_E E + w_M M + w_S S + w_I I + w_G G
+\text{HSI} = w_H&P H&P + w_E&A E&A + w_M&E M&E + w_S&C S&C + w_I&P I&P + w_E&G E&G
 $$
 where:
 $$
-w_H + w_E + w_M + w_S + w_I + w_G = 1
+w_H&P + w_E&A + w_M&E + w_S&C + w_I&P + w_E&G = 1
 $$
-- $H$: Health and Physical Fitness  
-- $E$: Education and Awareness  
-- $M$: Mobility and Escape Resources  
-- $S$: Social and Community Factors  
-- $I$: Infrastructure and Preparedness  
-- $G$: Environmental and Geographic Factors  
+- $H&P$: Health and Physical Fitness  
+- $E&A$: Education and Awareness  
+- $M&E$: Mobility and Escape Resources  
+- $S&C$: Social and Community Factors  
+- $I&P$: Infrastructure and Preparedness  
+- $E&G$: Environmental and Geographic Factors  
 
 ### Research Questions:
-1. How does population density affect survival time?  
-2. Where are the lowest-risk areas and potential escape zones?  
-3. Do survivability modifiers meaningfully increase survival odds?  
-
+1. What will the spread of the outbreak look like? ​
+2. How rapidly will it progress? ​
+3. Where are the most and least affected areas? ​
+4. How do human factors modify your odds of survival?
 
 ## Code Repository Resources:
 - https://github.com/epistorm/epydemix
@@ -69,12 +69,12 @@ nc_geography_and_weather.csv
 ## Data Resources:
 Social and Community Factors
 - Age Demographics: https://data.census.gov/table/ACSST5Y2023.S0101?g=010XX00US$0500000&moe=true
-- Hunting and Fishing Licenses: https://partnerwithapayer.org/funding-sources/
+- Hunting and Fishing:
 - Gun Ownership:
     - Gun Ownership: https://schs.dph.ncdhhs.gov/data/brfss/2021/nc/all/GunStat.html
     - Country Classification: https://connect.ncdot.gov/events/Documents/nc-county-classifications.pdf
 - Military and Veterans:
-    - Veteran Populations: https://www.ruralhealthinfo.org/charts/97 https://carolinademography.cpc.unc.edu/2021/05/27/who-are-north-carolinas-veterans/
+    - Veteran Populations: https://carolinademography.cpc.unc.edu/2021/05/27/who-are-north-carolinas-veterans/
     - Active Duty Military: https://www.remi.com/wp-content/uploads/2017/10/326-North-Carolina-General-Assembly-The-Economic-Impact-of-the-Military-on-North-Carolina-2013.pdf
 - Environment and Geography:
     - Latitute, Longitude, Elevation, and Annual Precipitation: https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/
