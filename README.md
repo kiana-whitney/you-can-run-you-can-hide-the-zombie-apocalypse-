@@ -31,8 +31,15 @@ Each category can itself be normalized around 0.
 **Weighted Formula**
 
 $$
-\text{HSI} = w_{H\&P} \cdot H\&P + w_{E\&A} \cdot E\&A + w_{M\&E} \cdot M\&E + w_{S\&C} \cdot S\&C + w_{I\&P} \cdot I\&P + w_{E\&G} \cdot E\&G
+\text{HSI} =
+w_{ \text{H&P} }\cdot \text{H&P} +
+w_{ \text{E&A} }\cdot \text{E&A} +
+w_{ \text{M&E} }\cdot \text{M&E} +
+w_{ \text{S&C} }\cdot \text{S&C} +
+w_{ \text{I&P} }\cdot \text{I&P} +
+w_{ \text{E&G} }\cdot \text{E&G}
 $$
+
 
 where:
 
