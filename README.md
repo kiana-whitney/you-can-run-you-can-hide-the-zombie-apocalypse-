@@ -20,11 +20,12 @@ $$
 
 ### Human Survival Index (HSI)
 The Human Survival Index will incorporate several categories of survivability modifiers. 
-- **Health and Physical Fitness:** obesity rates, physical disabilities, density of nursing homes
-- **Education and Awareness:** education levels, density of schools
-- **Social and Community Factors:** age demographics, military or veteran populations, gun ownership rates, hunting and fishing licenses
-- **Infrastructure and Preparedness:** cities off the grid, doomsday preppers, COVID reactions/protocols
-- **Environmental and Geographic Factors:** terrain, weather
+- **Health and Physical Fitness (HP):** obesity rates, physical disabilities, density of nursing homes
+- **Education and Awareness (EA):** education levels, density of schools
+- **Mobility and Escape (ME):** vehicle access, transit dependence, road density
+- **Social and Community Factors SC):** age demographics, military or veteran populations, gun ownership rates, hunting and fishing licenses
+- **Infrastructure and Preparedness (IP):** cities off the grid, doomsday preppers, COVID reactions/protocols
+- **Environmental and Geographic Factors (EG):** terrain, weather
 
 Each category can itself be normalized around 0.
 
@@ -32,27 +33,22 @@ Each category can itself be normalized around 0.
 
 $$
 \text{HSI} =
-w_{ \text{H&P} }\cdot \text{H&P} +
-w_{ \text{E&A} }\cdot \text{E&A} +
-w_{ \text{M&E} }\cdot \text{M&E} +
-w_{ \text{S&C} }\cdot \text{S&C} +
-w_{ \text{I&P} }\cdot \text{I&P} +
-w_{ \text{E&G} }\cdot \text{E&G}
+w_{ \text{HP} }\cdot \text{HP} + w_{ \text{EA} }\cdot \text{EA} + w_{ \text{ME} }\cdot \text{ME} + w_{ \text{SC} }\cdot \text{SC} + w_{ \text{IP} }\cdot \text{IP} + w_{ \text{EG} }\cdot \text{EG}
 $$
 
 
 where:
 
 $$
-w_{H\&P} + w_{E\&A} + w_{M\&E} + w_{S\&C} + w_{I\&P} + w_{E\&G} = 1
+w_{HP} + w_{EA} + w_{ME} + w_{SC} + w_{IP} + w_{EG} = 1
 $$
 
-- $H\&P$: Health and Physical Fitness  
-- $E\&A$: Education and Awareness  
-- $M\&E$: Mobility and Escape Resources  
-- $S\&C$: Social and Community Factors  
-- $I\&P$: Infrastructure and Preparedness  
-- $E\&G$: Environmental and Geographic Factors  
+- $HP$: Health and Physical Fitness  
+- $EA$: Education and Awareness  
+- $ME$: Mobility and Escape Resources  
+- $SC$: Social and Community Factors  
+- $IP$: Infrastructure and Preparedness  
+- $EG$: Environmental and Geographic Factors  
 
 ### Research Questions:
 1. What will the spread of the outbreak look like? ​
