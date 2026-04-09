@@ -31,18 +31,21 @@ Each category can itself be normalized around 0.
 **Weighted Formula**
 
 $$
-\text{HSI} = w_H&P H&P + w_E&A E&A + w_M&E M&E + w_S&C S&C + w_I&P I&P + w_E&G E&G
+\text{HSI} = w_{H\&P}\, H\&P + w_{E\&A}\, E\&A + w_{M\&E}\, M\&E + w_{S\&C}\, S\&C + w_{I\&P}\, I\&P + w_{E\&G}\, E\&G
 $$
+
 where:
+
 $$
-w_H&P + w_E&A + w_M&E + w_S&C + w_I&P + w_E&G = 1
+w_{H\&P} + w_{E\&A} + w_{M\&E} + w_{S\&C} + w_{I\&P} + w_{E\&G} = 1
 $$
-- $H&P$: Health and Physical Fitness  
-- $E&A$: Education and Awareness  
-- $M&E$: Mobility and Escape Resources  
-- $S&C$: Social and Community Factors  
-- $I&P$: Infrastructure and Preparedness  
-- $E&G$: Environmental and Geographic Factors  
+
+- $H\&P$: Health and Physical Fitness  
+- $E\&A$: Education and Awareness  
+- $M\&E$: Mobility and Escape Resources  
+- $S\&C$: Social and Community Factors  
+- $I\&P$: Infrastructure and Preparedness  
+- $E\&G$: Environmental and Geographic Factors  
 
 ### Research Questions:
 1. What will the spread of the outbreak look like? ​
