@@ -20,12 +20,12 @@ $$
 
 ### Human Survival Index (HSI)
 The Human Survival Index will incorporate several categories of survivability modifiers. 
-- **Health and Physical Fitness (HP):** obesity rates, physical disabilities, density of nursing homes
-- **Education and Awareness (EA):** education levels, density of schools
-- **Mobility and Escape (ME):** vehicle access, transit dependence, road density
-- **Social and Community Factors SC):** age demographics, military or veteran populations, gun ownership rates, hunting and fishing licenses
-- **Infrastructure and Preparedness (IP):** cities off the grid, doomsday preppers, COVID reactions/protocols
-- **Environmental and Geographic Factors (EG):** terrain, weather
+- **Health and Physical Fitness:** obesity rates, physical disabilities, density of nursing homes
+- **Education and Awareness:** education levels, density of schools
+- **Mobility and Escape:** vehicle access, transit dependence, road density
+- **Social and Community Factors:** age demographics, military or veteran populations, gun ownership rates, hunting and fishing licenses
+- **Infrastructure and Preparedness:** cities off the grid, doomsday preppers, COVID reactions/protocols
+- **Environmental and Geographic Factors:** terrain, weather
 
 Each category can itself be normalized around 0.
 
