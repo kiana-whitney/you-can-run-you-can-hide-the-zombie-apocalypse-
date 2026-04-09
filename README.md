@@ -67,14 +67,15 @@ nc_geography_and_weather.csv
 ```
 
 ## Data Resources:
+Social and Community Factors
 - Age Demographics: https://data.census.gov/table/ACSST5Y2023.S0101?g=010XX00US$0500000&moe=true
 - Hunting and Fishing Licenses: https://partnerwithapayer.org/funding-sources/
-- Gun Ownership and Sales:
-    - Gun Ownership: https://ammo.com/articles/gun-ownership-by-state & https://worldpopulationreview.com/state-rankings/gun-ownership-by-state
-    - Gun Sales: https://datahub.thetrace.org/dataset/gun-sales/
+- Gun Ownership:
+    - Gun Ownership: https://schs.dph.ncdhhs.gov/data/brfss/2021/nc/all/GunStat.html
+    - Country Classification: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://connect.ncdot.gov/events/Documents/nc-county-classifications.pdf
 - Military and Veterans:
     - Veteran Populations: https://www.ruralhealthinfo.org/charts/97](https://carolinademography.cpc.unc.edu/2021/05/27/who-are-north-carolinas-veterans/
-    - Active Duty Military and Government Civilians: https://dwp.dmdc.osd.mil/dwp/app/dod-data-reports/workforce-reports
+    - Active Duty Military: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.remi.com/wp-content/uploads/2017/10/326-North-Carolina-General-Assembly-The-Economic-Impact-of-the-Military-on-North-Carolina-2013.pdf
 - Environment and Geography:
     - Latitute, Longitude, Elevation, and Annual Precipitation: https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/
 - NC Resiliency Scores by County:
