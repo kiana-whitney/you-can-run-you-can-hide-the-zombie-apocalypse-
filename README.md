@@ -54,7 +54,6 @@ $$
 - https://github.com/epistorm/epydemix
 - https://maplapse.readthedocs.io/en/latest/
 - https://medium.com/tech-carnot/time-lapse-choropleth-map-visualization-using-geopandas-8adb77a7d14
-- https://ncpro.nc.gov/north-carolina-economic-resilience-index
 
 
 ## File Naming Convention
@@ -78,3 +77,6 @@ nc_geography_and_weather.csv
     - Active Duty Military and Government Civilians: https://dwp.dmdc.osd.mil/dwp/app/dod-data-reports/workforce-reports
 - Environment and Geography:
     - Latitute, Longitude, Elevation, and Annual Precipitation: https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/
+- NC Resiliency Scores by County:
+    - https://ncpro.nc.gov/north-carolina-economic-resilience-index 
+
