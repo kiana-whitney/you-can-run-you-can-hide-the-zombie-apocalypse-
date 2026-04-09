@@ -74,7 +74,7 @@ Social and Community Factors
     - Gun Ownership: https://schs.dph.ncdhhs.gov/data/brfss/2021/nc/all/GunStat.html
     - Country Classification: https://connect.ncdot.gov/events/Documents/nc-county-classifications.pdf
 - Military and Veterans:
-    - Veteran Populations: https://www.ruralhealthinfo.org/charts/97](https://carolinademography.cpc.unc.edu/2021/05/27/who-are-north-carolinas-veterans/
+    - Veteran Populations: https://www.ruralhealthinfo.org/charts/97 https://carolinademography.cpc.unc.edu/2021/05/27/who-are-north-carolinas-veterans/
     - Active Duty Military: https://www.remi.com/wp-content/uploads/2017/10/326-North-Carolina-General-Assembly-The-Economic-Impact-of-the-Military-on-North-Carolina-2013.pdf
 - Environment and Geography:
     - Latitute, Longitude, Elevation, and Annual Precipitation: https://www.ncei.noaa.gov/data/normals-annualseasonal/1991-2020/access/
