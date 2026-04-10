@@ -91,15 +91,15 @@ NC Resiliency
 - NC Resiliency Scores by County: https://ncpro.nc.gov/north-carolina-economic-resilience-index 
 
 Health & Physical Fitness:
--CDC PLACES (Obesity): https://data.cdc.gov/places
--Census ACS B18105 (Ambulatory Disability): https://data.census.gov
--CMS Care Compare (Nursing Homes): https://data.cms.gov/provider-data
+- CDC PLACES (Obesity): https://data.cdc.gov/places
+- Census ACS B18105 (Ambulatory Disability): https://data.census.gov
+- CMS Care Compare (Nursing Homes): https://data.cms.gov/provider-data
 
 Mobility & Escape Resources:
--Census ACS B25044 (Vehicle Access / Transit Dependence): https://data.census.gov
--USDA RUCA Codes (Road Density): https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes
+- Census ACS B25044 (Vehicle Access / Transit Dependence): https://data.census.gov
+- USDA RUCA Codes (Road Density): https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes
 
 Infrastructure & Preparedness:
--Census ACS S0101 (Prepper Density proxy): https://data.census.gov
--Oxford OxCGRT (COVID Compliance): https://github.com/OxCGRT/covid-policy-tracker
--Census ACS B25040 (Grid Independence): https://data.census.gov
+- Census ACS S0101 (Prepper Density proxy): https://data.census.gov
+- Oxford OxCGRT (COVID Compliance): https://github.com/OxCGRT/covid-policy-tracker
+- Census ACS B25040 (Grid Independence): https://data.census.gov
