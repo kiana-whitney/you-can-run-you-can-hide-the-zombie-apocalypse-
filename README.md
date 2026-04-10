@@ -18,6 +18,8 @@ $$
 - **β (beta)** = Bite rate (speed of infection spread)  
 - **κ (kappa)** = Kill rate (effectiveness of humans against zombies)
 
+---
+
 ### Human Survival Index (HSI)
 
 The Human Survival Index (HSI) aggregates multiple dimensions of survivability into a single normalized score. Each component represents a different aspect of a population’s ability to respond to and endure adverse conditions.
@@ -32,8 +34,6 @@ The Human Survival Index (HSI) aggregates multiple dimensions of survivability i
 - **Environmental and Geographic Factors (EG):** terrain, climate, and weather patterns  
 
 Each category is normalized to a common scale (e.g., 0 to 1), allowing for weighted aggregation.
-
----
 
 ### Weighted Formula
 
@@ -53,7 +53,7 @@ $$
 w_{HP} + w_{EA} + w_{ME} + w_{SC} + w_{IP} + w_{EG} = 1
 $$
 
-#### Our Weighting
+Such that:
 
 $$
 \text{HSI} =
@@ -75,11 +75,15 @@ $$
 \kappa_{\text{adjusted}} = \kappa \cdot \left(1 + 0.5 \cdot \text{HSI}\right)
 $$
 
+---
+
 ### Research Questions:
 1. What will the spread of the outbreak look like? ​
 2. How rapidly will it progress? ​
 3. Where are the most and least affected areas? ​
 4. How do human factors modify your odds of survival?
+
+---
 
 ## Code Repository Resources:
 - https://github.com/epistorm/epydemix
@@ -91,7 +95,7 @@ $$
 - https://plotly.com/python/choropleth-maps/
 - https://plotly.com/python/county-choropleth/
 
-
+---
 ## Data File Naming Convention
 ```
 nc_name_of_topic.csv
@@ -101,6 +105,8 @@ Examples:
 nc_population.csv
 nc_geography_and_weather.csv
 ```
+
+---
 
 ## Data Resources:
 Social and Community:
