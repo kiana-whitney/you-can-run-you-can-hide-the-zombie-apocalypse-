@@ -45,13 +45,13 @@ w_{IP} \cdot IP +
 w_{EG} \cdot EG
 $$
 
-Subject to:
+where
 
 $$
 w_{HP} + w_{EA} + w_{ME} + w_{SC} + w_{IP} + w_{EG} = 1
 $$
 
-Such that:
+such that:
 
 $$
 \text{HSI} =
@@ -77,6 +77,7 @@ $$
 3. Where are the most and least affected areas? ​
 4. How do human factors modify your odds of survival?
 
+## The Code
 
 ### Code Repository Resources:
 - https://github.com/epistorm/epydemix
@@ -88,7 +89,7 @@ $$
 - https://plotly.com/python/choropleth-maps/
 - https://plotly.com/python/county-choropleth/
 
----
+## The Data
 ### Data File Naming Convention
 ```
 nc_name_of_topic.csv
@@ -98,8 +99,6 @@ Examples:
 nc_population.csv
 nc_geography_and_weather.csv
 ```
-
----
 
 ### Data Resources:
 **Social and Community**:
