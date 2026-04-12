@@ -113,7 +113,10 @@ nc_geography_and_weather.csv
     - Active Duty Military: https://www.remi.com/wp-content/uploads/2017/10/326-North-Carolina-General-Assembly-The-Economic-Impact-of-the-Military-on-North-Carolina-2013.pdf
 
 **Education and Awareness:**
-- Add data source citations
+- School Densities
+    - Colleges and Universities: https://data-nconemap.opendata.arcgis.com/datasets/nconemap::colleges-and-universities/about
+    - Public Schools: https://data-nconemap.opendata.arcgis.com/datasets/nconemap::public-schools/about
+    - Non-Public Schools: https://data-nconemap.opendata.arcgis.com/datasets/ncdoa::nc-non-public-schools-latest-version/about
 
 **Infrastructure and Preparedness:**
 - Census ACS S0101 (Prepper Density proxy): https://data.census.gov
